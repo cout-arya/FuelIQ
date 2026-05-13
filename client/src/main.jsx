@@ -6,8 +6,13 @@ import { BrowserRouter } from 'react-router-dom'
 import { AuthProvider } from './context/AuthContext'
 import axios from 'axios'
 
-const apiBase = import.meta.env.VITE_API_URL || '';
-axios.defaults.baseURL = `${apiBase}/api`;
+let apiBase = import.meta.env.VITE_API_URL || '';
+// Automatically clean up common environment variable mistakes (trailing slashes or including /api)
+apiBase = apiBase.replace(/\/+$/, ''); // Remove trailing slashes
+if (apiBase.endsWith('/api')) {
+    apiBase = apiBase.slice(0, -4);
+}
+axios.defaults.baseURL = apiBase ? `${apiBase}/api` : '/api';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
