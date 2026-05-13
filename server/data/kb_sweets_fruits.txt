@@ -1,0 +1,346 @@
+SWEETS, DESSERTS, FRUITS, DRY FRUITS & FASTING FOODS
+Format: Item (portion) | Cal | P | C | F | Notes
+
+═══════════════════════════════════════
+INDIAN SWEETS / MITHAI
+═══════════════════════════════════════
+
+Gulab Jamun (1 piece, 40g):
+Cal: 150 | P: 2g | C: 22g | F: 6g
+Notes: Deep fried milk balls in sugar syrup. Festival staple.
+
+Rasgulla (1 piece, 40g):
+Cal: 120 | P: 3g | C: 22g | F: 2g
+Notes: Bengali origin. Chenna balls in syrup. Lower fat than gulab jamun.
+
+Rasmalai (1 piece):
+Cal: 180 | P: 4g | C: 24g | F: 7g
+Notes: Chenna disc in thickened sweet milk.
+
+Kaju Katli (1 piece, 20g):
+Cal: 100 | P: 2g | C: 12g | F: 5g
+Notes: Cashew fudge. Premium mithai. Very calorie-dense per gram.
+
+Barfi — Milk/Mawa (1 piece, 25g):
+Cal: 110 | P: 2g | C: 14g | F: 5g
+Notes: Condensed milk fudge. Many variants.
+
+Peda (1 piece, 20g):
+Cal: 90 | P: 2g | C: 12g | F: 4g
+Notes: Mathura peda famous. Milk-based.
+
+Jalebi (2 pieces, 50g):
+Cal: 200 | P: 1g | C: 32g | F: 8g
+Notes: Deep fried maida spirals soaked in sugar syrup. Very high sugar.
+
+Imarti (1 piece):
+Cal: 180 | P: 2g | C: 28g | F: 7g
+Notes: Similar to jalebi, made with urad dal batter.
+
+Ladoo — Besan (1 piece, 30g):
+Cal: 140 | P: 3g | C: 16g | F: 7g
+Notes: Gram flour + ghee + sugar. Festive sweet.
+
+Ladoo — Motichoor (1 piece, 30g):
+Cal: 130 | P: 2g | C: 18g | F: 6g
+Notes: Tiny besan pearls. Lighter than regular besan ladoo.
+
+Ladoo — Rava/Suji (1 piece, 30g):
+Cal: 120 | P: 2g | C: 16g | F: 5g
+Notes: Semolina + ghee + sugar + dry fruits.
+
+Ladoo — Coconut/Nariyal (1 piece):
+Cal: 100 | P: 1g | C: 14g | F: 5g
+Notes: Desiccated coconut + condensed milk.
+
+Mysore Pak (1 piece, 30g):
+Cal: 160 | P: 2g | C: 14g | F: 11g
+Notes: Besan + ghee + sugar. Karnataka specialty. Very ghee-heavy.
+
+Halwa — Gajar/Carrot (1 serving, 100g):
+Cal: 280 | P: 5g | C: 35g | F: 14g
+Notes: Winter special. With milk, ghee, sugar, dry fruits.
+
+Halwa — Suji/Sheera (1 serving, 100g):
+Cal: 250 | P: 3g | C: 32g | F: 12g
+Notes: Semolina + ghee + sugar. Quick to make.
+
+Halwa — Moong Dal (1 serving):
+Cal: 300 | P: 6g | C: 35g | F: 15g
+Notes: Rich, dense. Rajasthani/UP specialty.
+
+Kheer / Payasam (1 bowl, 150ml):
+Cal: 200 | P: 5g | C: 30g | F: 6g
+Notes: Rice/vermicelli cooked in sweet milk. Festival dessert.
+
+Phirni (1 bowl):
+Cal: 180 | P: 4g | C: 28g | F: 5g
+Notes: Ground rice pudding. Served chilled in clay pots.
+
+Rabri / Rabdi (100g):
+Cal: 250 | P: 6g | C: 30g | F: 12g
+Notes: Reduced thickened sweetened milk. Very calorie dense.
+
+Kulfi (1 stick/piece):
+Cal: 180 | P: 4g | C: 22g | F: 8g
+Notes: Indian ice cream. Denser than regular ice cream.
+
+Mishti Doi (1 cup, 100g, Bengali):
+Cal: 140 | P: 4g | C: 22g | F: 4g
+Notes: Sweetened yogurt. Caramelized sugar + curd. Kolkata specialty.
+
+Sandesh (1 piece, Bengali):
+Cal: 80 | P: 3g | C: 12g | F: 2g
+Notes: Chenna + sugar. Lighter than most sweets.
+
+Shrikhand (1 serving, 100g, Gujarati/Maharashtrian):
+Cal: 200 | P: 7g | C: 30g | F: 6g
+Notes: Hung curd + sugar + saffron + cardamom.
+
+Basundi (1 serving, 100g):
+Cal: 230 | P: 6g | C: 28g | F: 10g
+Notes: Reduced sweetened milk. Maharashtra/Gujarat.
+
+Malpua (2 pieces, Rajasthani):
+Cal: 300 | P: 4g | C: 38g | F: 14g
+Notes: Sweet pancakes soaked in syrup. Festive.
+
+Ghevar (1 piece, Rajasthani):
+Cal: 350 | P: 3g | C: 42g | F: 18g
+Notes: Disc-shaped honeycomb sweet. Teej/Rakhi specialty.
+
+Puran Poli (1 piece, Maharashtrian):
+Cal: 250 | P: 5g | C: 40g | F: 7g
+Notes: Chana dal + jaggery stuffed flatbread. Festival food.
+
+Modak (1 piece, Ganesh Chaturthi):
+Cal: 120 | P: 2g | C: 18g | F: 5g
+Notes: Steamed: 100 kcal. Fried: 150 kcal. Coconut + jaggery filling.
+
+Payasam — Ada/Vermicelli (1 bowl, Kerala):
+Cal: 250 | P: 5g | C: 38g | F: 8g
+Notes: Kerala feast dessert. With coconut milk + jaggery.
+
+Double Ka Meetha (1 serving, Hyderabadi):
+Cal: 280 | P: 5g | C: 35g | F: 13g
+Notes: Fried bread pudding in sweet milk.
+
+Qubani Ka Meetha (1 serving, Hyderabad):
+Cal: 200 | P: 3g | C: 38g | F: 4g
+Notes: Stewed apricots. Wazwan dessert.
+
+Gujia (1 piece, Holi):
+Cal: 180 | P: 3g | C: 24g | F: 8g
+Notes: Deep fried pastry with khoya + dry fruit filling.
+
+═══════════════════════════════════════
+CONTINENTAL / CAFE DESSERTS
+═══════════════════════════════════════
+
+Chocolate Brownie (1 piece):
+Cal: 320 | P: 4g | C: 38g | F: 18g
+Notes: Cafe staple. With ice cream: +150 kcal.
+
+Chocolate Lava Cake (1 piece):
+Cal: 400 | P: 6g | C: 45g | F: 22g
+Notes: Premium restaurant dessert.
+
+Cheesecake (1 slice):
+Cal: 350 | P: 6g | C: 30g | F: 24g
+Notes: New York style. Very calorie dense.
+
+Tiramisu (1 serving):
+Cal: 300 | P: 6g | C: 28g | F: 18g
+Notes: Italian coffee dessert. Popular in upscale restaurants.
+
+Ice Cream — Vanilla (1 scoop, 75g):
+Cal: 140 | P: 2g | C: 17g | F: 7g
+Notes: 2 scoops = 280 kcal. Add cone: +30 kcal.
+
+Pastry — Cream/Chocolate (1 piece):
+Cal: 350 | P: 4g | C: 40g | F: 20g
+Notes: Bakery pastry. Celebration food.
+
+Waffle — With toppings (1 plate):
+Cal: 450 | P: 8g | C: 55g | F: 22g
+Notes: Cafe special. With ice cream + chocolate sauce.
+
+Pancakes — With maple syrup (2 pieces):
+Cal: 380 | P: 8g | C: 55g | F: 14g
+Notes: Brunch item. Add butter: +50 kcal.
+
+═══════════════════════════════════════
+FRUITS (per 100g edible portion unless stated)
+═══════════════════════════════════════
+
+Banana (1 medium, 120g):
+Cal: 105 | P: 1.3g | C: 27g | F: 0.4g
+Notes: Best pre-workout fruit. Potassium-rich.
+
+Apple (1 medium, 180g):
+Cal: 95 | P: 0.5g | C: 25g | F: 0.3g
+Notes: Fibre-rich. "An apple a day." Low GI.
+
+Mango (1 cup, chopped):
+Cal: 100 | P: 1g | C: 25g | F: 0.5g
+Notes: Seasonal. High vitamin A + C. Moderate in moderation.
+
+Papaya (1 cup):
+Cal: 55 | P: 0.8g | C: 14g | F: 0.3g
+Notes: Papain enzyme aids digestion. Low calorie.
+
+Watermelon (1 cup):
+Cal: 46 | P: 0.9g | C: 11g | F: 0.2g
+Notes: 92% water. Great for hydration. Low calorie.
+
+Guava / Amrud (1 medium):
+Cal: 68 | P: 2.5g | C: 14g | F: 1g
+Notes: Highest vitamin C among common fruits. Low GI.
+
+Orange / Santra (1 medium):
+Cal: 62 | P: 1.2g | C: 15g | F: 0.2g
+Notes: Vitamin C. Whole fruit > juice (fibre retained).
+
+Pomegranate / Anar (seeds from 1/2 fruit):
+Cal: 72 | P: 1.5g | C: 16g | F: 1g
+Notes: Antioxidant rich. Good iron.
+
+Grapes (1 cup):
+Cal: 62 | P: 0.6g | C: 16g | F: 0.3g
+Notes: Quick energy. High natural sugar.
+
+Chikoo / Sapota (1 medium):
+Cal: 80 | P: 0.4g | C: 20g | F: 1g
+Notes: Very sweet. High sugar. Eat in moderation.
+
+Pineapple (1 cup):
+Cal: 82 | P: 0.9g | C: 22g | F: 0.2g
+Notes: Bromelain enzyme. Anti-inflammatory.
+
+Strawberry (100g):
+Cal: 33 | P: 0.7g | C: 8g | F: 0.3g
+Notes: Low calorie. High vitamin C. Good for cutting.
+
+Kiwi (1 medium):
+Cal: 42 | P: 0.8g | C: 10g | F: 0.4g
+Notes: Very high vitamin C (twice orange). Gut health.
+
+Custard Apple / Sitaphal (100g):
+Cal: 94 | P: 2g | C: 24g | F: 0.3g
+Notes: High calorie for fruit. Seasonal.
+
+Jackfruit / Kathal (100g):
+Cal: 95 | P: 1.7g | C: 23g | F: 0.6g
+Notes: Used as meat substitute (raw). Ripe is sweet.
+
+Litchi (10 pieces):
+Cal: 65 | P: 0.8g | C: 16g | F: 0.4g
+Notes: Seasonal. Bihar/UP specialty.
+
+Jamun / Indian Blackberry (100g):
+Cal: 60 | P: 0.7g | C: 14g | F: 0.2g
+Notes: Blood sugar lowering properties. Seasonal.
+
+Coconut — Fresh (100g):
+Cal: 354 | P: 3.3g | C: 15g | F: 33g
+Notes: Very high in fat. Coconut meat. Healthy MCT fats.
+
+Dry Coconut / Copra (30g):
+Cal: 190 | P: 2g | C: 6g | F: 18g
+Notes: Concentrated calories.
+
+Avocado (1/2 fruit, 70g):
+Cal: 115 | P: 1.5g | C: 6g | F: 10g
+Notes: Urban India import. Healthy monounsaturated fats.
+
+═══════════════════════════════════════
+DRY FRUITS (per 30g serving)
+═══════════════════════════════════════
+
+Almonds / Badam (20-22 pieces): Cal: 170 | P: 6g | C: 6g | F: 15g
+Cashews / Kaju (15 pieces): Cal: 165 | P: 5g | C: 9g | F: 13g
+Walnuts / Akhrot (7 halves): Cal: 195 | P: 4.5g | C: 4g | F: 19g
+Pistachios / Pista (45 pieces): Cal: 160 | P: 6g | C: 8g | F: 13g
+Raisins / Kishmish (30g): Cal: 85 | P: 1g | C: 22g | F: 0.1g
+Dates / Khajoor (3 pieces): Cal: 70 | P: 0.5g | C: 18g | F: 0g
+Figs / Anjeer dry (3 pieces): Cal: 65 | P: 1g | C: 16g | F: 0.3g
+Apricot / Khumani dry (5 pieces): Cal: 50 | P: 0.7g | C: 13g | F: 0.1g
+Prunes / Dried Plum (5 pieces): Cal: 60 | P: 0.5g | C: 16g | F: 0.1g
+
+═══════════════════════════════════════
+FASTING / VRAT FOODS
+═══════════════════════════════════════
+
+Sabudana Khichdi (1 cup):
+Cal: 300 | P: 4g | C: 50g | F: 10g
+Notes: Tapioca + peanuts. Navratri/Ekadashi staple.
+
+Sabudana Vada (2 pieces):
+Cal: 250 | P: 4g | C: 35g | F: 11g
+Notes: Deep fried tapioca patties.
+
+Kuttu Ka Atta Puri (2 pieces):
+Cal: 200 | P: 4g | C: 22g | F: 10g
+Notes: Buckwheat flour puris. Navratri.
+
+Rajgira Paratha (1 piece):
+Cal: 150 | P: 4g | C: 24g | F: 4g
+Notes: Amaranth flour. High protein for fasting food.
+
+Singhare Ka Atta Halwa (1 serving):
+Cal: 200 | P: 2g | C: 30g | F: 8g
+Notes: Water chestnut flour sweet.
+
+Samak Rice / Barnyard Millet (1 cup cooked):
+Cal: 180 | P: 3g | C: 36g | F: 1g
+Notes: Fasting rice substitute. Gluten-free.
+
+Makhana Kheer (1 bowl):
+Cal: 220 | P: 5g | C: 32g | F: 8g
+Notes: Fox nuts in sweet milk. Fasting dessert.
+
+Fruit Chaat (1 bowl):
+Cal: 120 | P: 1.5g | C: 28g | F: 0.5g
+Notes: Mixed fruits with rock salt + pepper. Vrat-friendly.
+
+Sweet Potato / Shakarkandi (1 medium, 130g):
+Cal: 115 | P: 2g | C: 27g | F: 0g
+Notes: Fasting-approved. Complex carb. Good pre-workout.
+
+Aloo Jeera — Fasting style (1 serving):
+Cal: 160 | P: 2.5g | C: 24g | F: 6g
+Notes: Potatoes with cumin, rock salt. Sendha namak only.
+
+═══════════════════════════════════════
+INDIAN PICKLES, CHUTNEYS & CONDIMENTS
+═══════════════════════════════════════
+
+Mango Pickle / Aam ka Achaar (1 tbsp): Cal: 30 | F: 2g
+Notes: Oil-based. Small portions.
+
+Lime Pickle (1 tbsp): Cal: 20 | F: 1g
+Notes: Sour, salty. Probiotic if fermented.
+
+Mixed Pickle (1 tbsp): Cal: 30 | F: 2g
+Notes: Various vegetables in mustard oil.
+
+Green Chutney — Mint/Coriander (1 tbsp): Cal: 10 | F: 0.5g
+Notes: Very low calorie. Adds flavor without calories.
+
+Tamarind Chutney / Imli (1 tbsp): Cal: 30 | C: 7g
+Notes: Sweet-sour. Sugar adds calories.
+
+Coconut Chutney (1 tbsp): Cal: 35 | F: 3g
+Notes: South Indian staple with idli/dosa.
+
+Tomato Ketchup (1 tbsp): Cal: 20 | C: 5g
+Notes: Mostly sugar. Minimal nutrition.
+
+Mayonnaise (1 tbsp): Cal: 100 | F: 11g
+Notes: Very calorie-dense. Use sparingly.
+
+Papad — Roasted (1 piece): Cal: 35 | P: 2g | C: 5g | F: 1g
+Notes: Urad dal-based. Roasted is lighter.
+
+Papad — Fried (1 piece): Cal: 60 | P: 2g | C: 5g | F: 3g
+Notes: Deep fried adds fat. Common meal accompaniment.

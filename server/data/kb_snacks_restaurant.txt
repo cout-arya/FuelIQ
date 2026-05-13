@@ -1,0 +1,526 @@
+SNACKS, STREET FOOD, RESTAURANT MEALS, CONTINENTAL & BEVERAGES
+Format: Item (portion) | Cal | P | C | F | Notes
+
+═══════════════════════════════════════
+INDIAN SNACKS — FRIED
+═══════════════════════════════════════
+
+Samosa — Aloo (1 piece, 80g):
+Cal: 250 | P: 4g | C: 28g | F: 14g
+Notes: Deep fried. Ubiquitous Indian snack. Baked version: ~150 kcal.
+
+Samosa — Keema (1 piece):
+Cal: 280 | P: 10g | C: 24g | F: 16g
+Notes: Mutton mince filling. Higher protein.
+
+Pakora / Bhajiya — Onion (5 pieces, 100g):
+Cal: 300 | P: 5g | C: 25g | F: 20g
+Notes: Besan-battered, deep fried. Rainy day chai snack.
+
+Pakora — Paneer (4 pieces):
+Cal: 320 | P: 10g | C: 20g | F: 22g
+Notes: Paneer slices in besan batter.
+
+Pakora — Palak (5 pieces):
+Cal: 220 | P: 4g | C: 18g | F: 15g
+Notes: Spinach leaves fried. Slightly lighter.
+
+Aloo Tikki (1 piece, 80g):
+Cal: 180 | P: 3g | C: 22g | F: 9g
+Notes: Potato patty, shallow fried. Street food base.
+
+Bread Pakora (1 piece):
+Cal: 200 | P: 4g | C: 22g | F: 10g
+Notes: Bread stuffed with potato, battered, fried.
+
+Kachori — Pyaaz (1 piece, Rajasthani):
+Cal: 280 | P: 5g | C: 30g | F: 15g
+Notes: Onion-filled deep fried pastry. Heavy snack.
+
+Kachori — Dal (1 piece):
+Cal: 260 | P: 6g | C: 28g | F: 14g
+Notes: Moong/urad dal filling.
+
+Bonda (1 piece, South Indian):
+Cal: 170 | P: 3g | C: 20g | F: 9g
+Notes: Potato ball dipped in besan batter. Tamil Nadu/Karnataka.
+
+Mirchi Bajji (1 piece, Andhra):
+Cal: 120 | P: 2g | C: 12g | F: 7g
+Notes: Stuffed green chili fritter. Spicy.
+
+Mathri (2 pieces, Rajasthani):
+Cal: 150 | P: 2g | C: 16g | F: 9g
+Notes: Crispy fried cracker. Festival snack.
+
+═══════════════════════════════════════
+INDIAN SNACKS — HEALTHY / LIGHT
+═══════════════════════════════════════
+
+Moong Dal Chilla (1 piece):
+Cal: 100 | P: 6g | C: 12g | F: 3g | Fibre: 2g
+Notes: Green gram pancake. High protein. Gym-friendly breakfast.
+
+Besan Chilla (1 piece):
+Cal: 120 | P: 5g | C: 14g | F: 4g
+Notes: Gram flour pancake with onion, tomato.
+
+Dhokla (2 pieces, Gujarati):
+Cal: 120 | P: 4g | C: 18g | F: 3g
+Notes: Steamed besan cake. Low calorie. Probiotic (fermented).
+
+Khandvi (5 pieces, Gujarati):
+Cal: 100 | P: 3g | C: 12g | F: 4g
+Notes: Rolled besan sheets with tempering. Light.
+
+Handvo (1 slice, Gujarati):
+Cal: 160 | P: 5g | C: 22g | F: 5g
+Notes: Baked lentil-rice cake with vegetables.
+
+Muthiya (3 pieces, Gujarati):
+Cal: 130 | P: 4g | C: 18g | F: 4g
+Notes: Steamed fenugreek dumplings.
+
+Roasted Makhana / Fox Nuts (30g):
+Cal: 100 | P: 3g | C: 18g | F: 0.5g | Fibre: 1g
+Notes: Low fat, crunchy. Fasting-friendly. Great diet snack.
+
+Roasted Chana (30g):
+Cal: 110 | P: 6g | C: 17g | F: 2g | Fibre: 4g
+Notes: High protein, high fibre. Budget gym snack.
+
+Sprouts Chaat (1 cup):
+Cal: 120 | P: 8g | C: 16g | F: 2g | Fibre: 4g
+Notes: With onion, lemon, chaat masala. Protein-rich.
+
+Murmura / Puffed Rice Chaat (1 cup):
+Cal: 130 | P: 3g | C: 24g | F: 3g
+Notes: Light evening snack. Bhel puri base.
+
+Corn Chaat (1 cup):
+Cal: 150 | P: 4g | C: 25g | F: 4g
+Notes: Sweet corn with butter, chaat masala.
+
+Steamed Corn on Cob (1 medium):
+Cal: 90 | P: 3g | C: 19g | F: 1g
+Notes: Add butter +30 kcal. Good pre-workout carb.
+
+Dry Fruit Mix / Trail Mix (30g):
+Cal: 160 | P: 5g | C: 12g | F: 11g
+Notes: Almonds, cashews, raisins, walnuts.
+
+Dates / Khajoor (3 pieces, 25g):
+Cal: 70 | P: 0.5g | C: 18g | F: 0g
+Notes: Natural sugar. Quick pre-workout energy.
+
+═══════════════════════════════════════
+STREET FOOD — PAN INDIA
+═══════════════════════════════════════
+
+Pani Puri / Golgappa (6 pieces):
+Cal: 150 | P: 3g | C: 28g | F: 3g
+Notes: Hollow puris with tamarind water. Low calorie for street food.
+
+Bhel Puri (1 plate):
+Cal: 200 | P: 4g | C: 32g | F: 6g
+Notes: Puffed rice + chutneys + sev. Mumbai iconic.
+
+Sev Puri (6 pieces):
+Cal: 250 | P: 4g | C: 30g | F: 12g
+Notes: Flat puris topped with potato, chutneys, sev.
+
+Dahi Puri (6 pieces):
+Cal: 280 | P: 5g | C: 32g | F: 14g
+Notes: With sweet curd on top.
+
+Ragda Pattice (1 plate):
+Cal: 350 | P: 8g | C: 45g | F: 14g
+Notes: Potato patties with white pea curry. Mumbai chaat.
+
+Vada Pav (1 piece):
+Cal: 300 | P: 5g | C: 38g | F: 14g
+Notes: Mumbai's burger. Potato vada in pav bun.
+
+Pav Bhaji (1 plate, with 2 pav):
+Cal: 450 | P: 10g | C: 50g | F: 22g
+Notes: Mashed vegetable curry + buttered pav. Heavy butter.
+
+Dabeli (1 piece, Gujarati):
+Cal: 250 | P: 4g | C: 32g | F: 11g
+Notes: Spiced potato in pav with peanuts, pomegranate.
+
+Misal Pav (1 plate, Maharashtra):
+Cal: 450 | P: 14g | C: 55g | F: 18g
+Notes: Sprouted moth curry + farsan + pav. Spicy, protein-rich.
+
+Chole Bhature (1 plate):
+Cal: 850 | P: 18g | C: 95g | F: 42g
+Notes: 2 bhature + chole. One of highest calorie street meals.
+
+Kathi Roll — Chicken (1 piece):
+Cal: 380 | P: 18g | C: 32g | F: 18g
+Notes: Paratha wrap with chicken tikka + onion. Kolkata origin.
+
+Kathi Roll — Paneer (1 piece):
+Cal: 350 | P: 12g | C: 34g | F: 18g
+Notes: Paneer tikka filling.
+
+Egg Roll (1 piece):
+Cal: 320 | P: 12g | C: 30g | F: 16g
+Notes: Egg-coated paratha with fillings.
+
+Dahi Vada (2 pieces):
+Cal: 200 | P: 6g | C: 22g | F: 10g
+Notes: Fried urad dal vadas soaked in curd. Festival food.
+
+Aloo Chaat (1 plate):
+Cal: 250 | P: 4g | C: 32g | F: 11g
+Notes: Fried potato cubes with chutneys, chaat masala.
+
+Pani Puri — Ragda (8 pieces):
+Cal: 280 | P: 6g | C: 42g | F: 8g
+Notes: With chickpea filling. More filling.
+
+Frankie / Wrap (1 piece, veg):
+Cal: 300 | P: 8g | C: 35g | F: 14g
+Notes: Mumbai wrap. Various fillings.
+
+Dahi Bhalla (2 pieces, Delhi):
+Cal: 220 | P: 6g | C: 24g | F: 10g
+Notes: Similar to dahi vada. Delhi version with more toppings.
+
+Tunde Kebab (2 pieces, Lucknow):
+Cal: 240 | P: 16g | C: 6g | F: 16g
+Notes: Famous Lucknow galawati kebab. Melt-in-mouth.
+
+═══════════════════════════════════════
+REGIONAL THALI / COMPLETE MEALS
+═══════════════════════════════════════
+
+North Indian Thali (2 roti + dal + sabzi + rice + raita):
+Cal: 650 | P: 22g | C: 90g | F: 20g
+Notes: Standard restaurant thali. Non-veg thali: +150-200 kcal.
+
+South Indian Meals (rice + sambar + rasam + poriyal + curd):
+Cal: 550 | P: 16g | C: 90g | F: 10g
+Notes: Banana leaf meals. Lighter than North Indian.
+
+Gujarati Thali (dal + kadhi + 2 sabzi + roti + rice + sweet):
+Cal: 700 | P: 18g | C: 100g | F: 22g
+Notes: Sweet + savory balance. Includes small dessert.
+
+Rajasthani Thali (dal baati + churma + 2 sabzi + raita):
+Cal: 800 | P: 18g | C: 95g | F: 35g
+Notes: Very calorie-dense. Heavy ghee usage.
+
+Bengali Thali (rice + dal + machher jhol + sabzi + chutney):
+Cal: 600 | P: 22g | C: 85g | F: 15g
+Notes: Fish-based. Sweet ending with mishti doi.
+
+Kerala Sadya (rice + 8-10 dishes on banana leaf):
+Cal: 750 | P: 16g | C: 110g | F: 22g
+Notes: Onam festival feast. Payasam adds +100 kcal.
+
+Andhra Meals (rice + 2 curries + rasam + pachadi + fry):
+Cal: 620 | P: 18g | C: 88g | F: 16g
+Notes: Spiciest regional cuisine. High chili usage.
+
+Chettinad Thali:
+Cal: 680 | P: 24g | C: 85g | F: 22g
+Notes: Tamil Nadu. Spiced non-veg curries.
+
+Assamese Thali (rice + dal + masor tenga + sabzi + pitika):
+Cal: 550 | P: 18g | C: 82g | F: 14g
+Notes: Light, fresh flavors. Fish-based usually.
+
+Kashmiri Wazwan (per plate, partial):
+Cal: 900+ | P: 35g | C: 60g | F: 50g
+Notes: Ceremonial feast. Rogan josh + gushtaba + tabak maaz. Very rich.
+
+Dal Chawal (1 bowl dal + 1 cup rice):
+Cal: 370 | P: 13g | C: 68g | F: 4.5g
+Notes: Simplest complete Indian meal. Daily comfort food.
+
+Rajma Chawal (1 bowl + 1 cup rice):
+Cal: 430 | P: 15g | C: 78g | F: 5.5g
+Notes: North Indian comfort classic. Complete protein combo.
+
+Kadhi Chawal (1 bowl kadhi + 1 cup rice):
+Cal: 390 | P: 9g | C: 62g | F: 12g
+Notes: Yogurt curry over rice. UP/Punjab/Gujarat.
+
+═══════════════════════════════════════
+CONTINENTAL / WESTERN — URBAN INDIA RESTAURANTS
+═══════════════════════════════════════
+
+--- PASTA ---
+
+Pasta — Alfredo (1 plate, restaurant):
+Cal: 550 | P: 16g | C: 60g | F: 28g
+Notes: Cream + butter + parmesan sauce. Very rich.
+
+Pasta — Arrabbiata (1 plate):
+Cal: 400 | P: 12g | C: 58g | F: 14g
+Notes: Tomato + chili. Lighter than cream pastas.
+
+Pasta — Pesto (1 plate):
+Cal: 480 | P: 14g | C: 55g | F: 22g
+Notes: Basil + pine nut + olive oil + parmesan.
+
+Pasta — Aglio e Olio (1 plate):
+Cal: 420 | P: 10g | C: 55g | F: 18g
+Notes: Garlic + olive oil. Simple but calorie-dense oil.
+
+Pasta — Mac and Cheese (1 plate):
+Cal: 550 | P: 18g | C: 52g | F: 30g
+Notes: Cheese sauce. Comfort food. Very popular in urban cafes.
+
+Pasta — Carbonara (1 plate):
+Cal: 520 | P: 20g | C: 55g | F: 24g
+Notes: Egg + cheese + bacon/ham.
+
+Pasta — Bolognese / Ragu (1 plate):
+Cal: 480 | P: 22g | C: 55g | F: 18g
+Notes: Meat sauce. Higher protein.
+
+--- PIZZA ---
+
+Pizza — Margherita (1 slice, medium):
+Cal: 200 | P: 8g | C: 24g | F: 8g
+Notes: Per slice. Full medium pizza = ~1200 kcal.
+
+Pizza — Pepperoni (1 slice):
+Cal: 250 | P: 10g | C: 24g | F: 12g
+Notes: Higher fat from processed meat.
+
+Pizza — Veggie Supreme (1 slice):
+Cal: 220 | P: 8g | C: 26g | F: 9g
+Notes: Capsicum, onion, olive, mushroom topping.
+
+Pizza — Paneer Tikka (1 slice, Indian fusion):
+Cal: 240 | P: 10g | C: 24g | F: 11g
+Notes: Popular Domino's/Pizza Hut India variant.
+
+Pizza — Chicken Tikka (1 slice):
+Cal: 250 | P: 12g | C: 24g | F: 11g
+Notes: Indian-fusion. High protein.
+
+--- BURGERS ---
+
+Burger — Veg (Aloo Tikki, McD/BK):
+Cal: 350 | P: 8g | C: 42g | F: 15g
+Notes: McDonald's McAloo Tikki is ~340 kcal.
+
+Burger — Chicken (regular):
+Cal: 400 | P: 20g | C: 35g | F: 18g
+Notes: Standard fast-food chicken burger.
+
+Burger — Chicken Zinger/Crispy:
+Cal: 500 | P: 22g | C: 40g | F: 26g
+Notes: Breaded, fried. KFC Zinger ~480 kcal.
+
+Burger — Double Patty:
+Cal: 600 | P: 30g | C: 40g | F: 32g
+Notes: Premium restaurant burger.
+
+--- SANDWICHES & WRAPS ---
+
+Sandwich — Grilled Veg (cafe):
+Cal: 300 | P: 8g | C: 35g | F: 14g
+Notes: With cheese, vegetables, mayo.
+
+Sandwich — Chicken Club:
+Cal: 450 | P: 24g | C: 38g | F: 22g
+Notes: Triple-layer with bacon/chicken/egg.
+
+Subway — 6 inch Veg (no cheese/mayo):
+Cal: 230 | P: 8g | C: 38g | F: 4g
+Notes: One of the lightest fast-food options.
+
+Subway — 6 inch Chicken Teriyaki:
+Cal: 320 | P: 22g | C: 40g | F: 6g
+Notes: Good macro ratio for fast food.
+
+--- SALADS & BOWLS ---
+
+Caesar Salad — Veg (1 plate):
+Cal: 280 | P: 8g | C: 15g | F: 20g
+Notes: Lettuce + croutons + parmesan + dressing.
+
+Caesar Salad — Chicken (1 plate):
+Cal: 380 | P: 25g | C: 15g | F: 24g
+Notes: Add grilled chicken. Protein boost.
+
+Greek Salad (1 plate):
+Cal: 250 | P: 6g | C: 12g | F: 20g
+Notes: Feta + olives + cucumber + tomato + olive oil.
+
+Poke Bowl / Buddha Bowl (1 bowl):
+Cal: 450 | P: 22g | C: 50g | F: 16g
+Notes: Rice + protein + vegetables + sauce. Urban cafe trend.
+
+--- SOUPS ---
+
+Tomato Soup (1 bowl, 200ml):
+Cal: 80 | P: 2g | C: 12g | F: 2g
+Notes: Restaurant adds cream: +40 kcal.
+
+Sweet Corn Soup — Veg (1 bowl):
+Cal: 100 | P: 3g | C: 16g | F: 2g
+Notes: Indo-Chinese. Cornstarch-thickened.
+
+Hot & Sour Soup (1 bowl):
+Cal: 90 | P: 4g | C: 12g | F: 2g
+Notes: Indo-Chinese. Low calorie starter.
+
+Manchow Soup (1 bowl):
+Cal: 120 | P: 4g | C: 14g | F: 4g
+Notes: With crispy noodles on top (+30 kcal).
+
+Mushroom Soup — Cream of (1 bowl):
+Cal: 180 | P: 4g | C: 14g | F: 12g
+Notes: Cream-based. Rich.
+
+Chicken Soup — Clear (1 bowl):
+Cal: 70 | P: 6g | C: 4g | F: 2g
+Notes: Lightest soup. Good when sick.
+
+═══════════════════════════════════════
+INDO-CHINESE
+═══════════════════════════════════════
+
+Veg Manchurian — Dry (1 serving):
+Cal: 280 | P: 5g | C: 30g | F: 15g
+Notes: Deep fried vegetable balls in sauce.
+
+Veg Manchurian — Gravy (1 serving):
+Cal: 320 | P: 5g | C: 35g | F: 16g
+Notes: In cornstarch-thickened sauce. More sodium.
+
+Chilli Paneer — Dry (1 serving):
+Cal: 350 | P: 14g | C: 18g | F: 24g
+Notes: Battered paneer in chili-soy sauce.
+
+Chilli Chicken — Dry (1 serving):
+Cal: 320 | P: 20g | C: 16g | F: 18g
+Notes: Battered chicken in Indo-Chinese sauce.
+
+Hakka Noodles — Veg (1 plate):
+Cal: 400 | P: 8g | C: 55g | F: 16g
+Notes: Stir-fried noodles. High sodium.
+
+Hakka Noodles — Chicken (1 plate):
+Cal: 450 | P: 16g | C: 55g | F: 18g
+Notes: With chicken strips.
+
+Fried Rice — Veg (1 plate):
+Cal: 380 | P: 7g | C: 52g | F: 15g
+Notes: Day-old rice stir-fried with vegetables.
+
+Schezwan Fried Rice (1 plate):
+Cal: 420 | P: 8g | C: 54g | F: 18g
+Notes: Spicier variant with schezwan paste.
+
+Spring Roll — Veg (2 pieces):
+Cal: 200 | P: 3g | C: 22g | F: 11g
+Notes: Deep fried. Light starter.
+
+Momos — Steamed Veg (6 pieces):
+Cal: 200 | P: 6g | C: 30g | F: 5g
+Notes: Northeast Indian. Low fat if steamed.
+
+Momos — Fried Veg (6 pieces):
+Cal: 320 | P: 6g | C: 32g | F: 16g
+Notes: Deep fried dumplings.
+
+═══════════════════════════════════════
+BEVERAGES
+═══════════════════════════════════════
+
+Chai — With sugar + milk (1 cup, 150ml):
+Cal: 80 | P: 2g | C: 12g | F: 2g
+Notes: India's most consumed beverage. 3-4 cups daily = 240-320 kcal.
+
+Chai — Without sugar (1 cup):
+Cal: 30 | P: 2g | C: 2g | F: 2g
+Notes: Cuts 50 kcal per cup.
+
+Black Coffee (1 cup):
+Cal: 5 | P: 0g | C: 0g | F: 0g
+Notes: Negligible calories. Caffeine boost.
+
+Coffee — With milk + sugar (1 cup):
+Cal: 80 | P: 2g | C: 12g | F: 2g
+Notes: Similar to chai.
+
+Filter Coffee / Kaapi (1 cup, South Indian):
+Cal: 90 | P: 3g | C: 10g | F: 3g
+Notes: Decoction + full-fat milk. Frothy.
+
+Cold Coffee — With ice cream:
+Cal: 250 | P: 5g | C: 35g | F: 10g
+Notes: Cafe treat. Very high sugar.
+
+Cappuccino (1 cup, cafe):
+Cal: 120 | P: 4g | C: 12g | F: 5g
+Notes: Espresso + steamed milk.
+
+Latte (1 cup, cafe):
+Cal: 150 | P: 5g | C: 15g | F: 6g
+Notes: More milk than cappuccino.
+
+Green Tea (1 cup, no sugar):
+Cal: 2 | P: 0g | C: 0g | F: 0g
+Notes: Antioxidants. Mild caffeine.
+
+Coconut Water (1 glass, 200ml):
+Cal: 45 | P: 0.5g | C: 10g | F: 0g
+Notes: Natural electrolytes. Post-workout hydration.
+
+Nimbu Paani / Lemonade (1 glass, with sugar):
+Cal: 70 | P: 0g | C: 18g | F: 0g
+Notes: Without sugar: ~10 kcal. Add salt for electrolytes.
+
+Sugarcane Juice (1 glass, 200ml):
+Cal: 160 | P: 0g | C: 40g | F: 0g
+Notes: Very high sugar. Seasonal. Not for fat loss.
+
+Mango Shake (1 glass):
+Cal: 250 | P: 5g | C: 40g | F: 7g
+Notes: Seasonal. High sugar content.
+
+Banana Shake (1 glass, with milk):
+Cal: 200 | P: 7g | C: 32g | F: 5g
+Notes: Good post-workout. Natural.
+
+Protein Shake — Whey + Milk (1 glass):
+Cal: 250 | P: 30g | C: 15g | F: 7g
+Notes: Best post-workout drink. 1 scoop whey + 200ml milk.
+
+Protein Shake — Whey + Water:
+Cal: 120 | P: 24g | C: 2g | F: 1.5g
+Notes: Leanest option for cutting.
+
+Soft Drinks / Soda (330ml can):
+Cal: 140 | P: 0g | C: 35g | F: 0g
+Notes: Pure sugar. Zero nutrition. Avoid.
+
+Diet Soda (330ml):
+Cal: 0 | P: 0g | C: 0g | F: 0g
+Notes: Artificial sweetener. Zero calorie.
+
+Packaged Fruit Juice (200ml):
+Cal: 100 | P: 0g | C: 24g | F: 0g
+Notes: Added sugar. Not as healthy as whole fruit.
+
+Energy Drink (250ml, Red Bull etc):
+Cal: 110 | P: 0g | C: 28g | F: 0g
+Notes: Caffeine + sugar. Avoid regular use.
+
+Jaljeera (1 glass):
+Cal: 15 | P: 0g | C: 3g | F: 0g
+Notes: Cumin water. Digestive. Almost zero calorie.
+
+Aam Panna (1 glass):
+Cal: 60 | P: 0g | C: 15g | F: 0g
+Notes: Raw mango drink. Summer cooler. Low calorie.

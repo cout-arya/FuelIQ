@@ -1,0 +1,38 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test and debug files
+test_*.js
+check_*.js
+*_output.txt
+db_error.txt
+out.txt
+embed_out.txt

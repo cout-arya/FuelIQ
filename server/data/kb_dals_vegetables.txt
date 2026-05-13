@@ -1,0 +1,308 @@
+DALS, LEGUMES, VEGETABLES & SABZI — ICMR/NIN Reference
+Format: Item (portion) | Cal | P | C | F | Fibre | Notes
+
+═══════════════════════════════════════
+DALS & LENTILS (per bowl ~200ml cooked, with standard tadka)
+═══════════════════════════════════════
+
+Toor Dal / Arhar Dal Tadka (1 bowl):
+Cal: 160 | P: 9g | C: 22g | F: 4g | Fibre: 4g
+Notes: Most common dal in India. Tadka adds ~40 kcal from ghee/oil.
+
+Moong Dal — Yellow (1 bowl):
+Cal: 140 | P: 9g | C: 20g | F: 2g | Fibre: 3g
+Notes: Easy to digest. Best for recovery and illness. Low gas.
+
+Moong Dal — Green Whole (1 bowl):
+Cal: 155 | P: 10g | C: 22g | F: 2g | Fibre: 5g
+Notes: More fibre than yellow. Good for weight loss.
+
+Masoor Dal — Red Lentils (1 bowl):
+Cal: 150 | P: 9g | C: 21g | F: 3g | Fibre: 3.5g
+Notes: Cooks fastest. Iron-rich. Bengali/UP staple.
+
+Chana Dal (1 bowl):
+Cal: 180 | P: 10g | C: 25g | F: 4g | Fibre: 5g
+Notes: Low GI (8). Best dal for diabetics.
+
+Urad Dal — Black Gram (1 bowl):
+Cal: 170 | P: 10g | C: 23g | F: 4g | Fibre: 4g
+Notes: Used in idli/dosa batter. Dense protein.
+
+Dal Makhani (1 bowl, restaurant):
+Cal: 320 | P: 12g | C: 28g | F: 18g | Fibre: 5g
+Notes: Urad + rajma + cream + butter. Very rich. Home version: ~220 kcal.
+
+Dal Fry (1 bowl):
+Cal: 180 | P: 10g | C: 22g | F: 6g | Fibre: 4g
+Notes: Mixed dals with onion-tomato tadka. Restaurant staple.
+
+Dal Palak (1 bowl):
+Cal: 160 | P: 10g | C: 20g | F: 5g | Fibre: 5g
+Notes: Dal cooked with spinach. Iron-rich combination.
+
+Panchmel Dal (1 bowl, Rajasthani):
+Cal: 175 | P: 11g | C: 22g | F: 5g | Fibre: 5g
+Notes: Five dals mixed. Complete amino acid profile.
+
+Sambhar (1 bowl, South Indian):
+Cal: 130 | P: 6g | C: 18g | F: 3g | Fibre: 4g
+Notes: Toor dal + vegetables + sambhar powder. Karnataka/TN/Kerala staple.
+
+Rasam (1 bowl):
+Cal: 60 | P: 2g | C: 8g | F: 2g | Fibre: 1g
+Notes: Thin tamarind-tomato soup. Very low calorie. Digestive aid.
+
+Kadhi — Punjabi (1 bowl):
+Cal: 180 | P: 5g | C: 15g | F: 10g | Fibre: 1g
+Notes: Yogurt + besan gravy with pakoras. Home version lighter.
+
+Kadhi — Gujarati (1 bowl):
+Cal: 120 | P: 4g | C: 12g | F: 6g | Fibre: 1g
+Notes: Sweet-sour, thinner than Punjabi. Lower calorie.
+
+═══════════════════════════════════════
+LEGUME DISHES (per bowl/serving ~200ml)
+═══════════════════════════════════════
+
+Rajma Masala (1 bowl):
+Cal: 220 | P: 11g | C: 32g | F: 5g | Fibre: 7g
+Notes: Kidney beans in onion-tomato gravy. North Indian comfort food.
+
+Chole / Chana Masala (1 bowl, home):
+Cal: 240 | P: 10g | C: 30g | F: 9g | Fibre: 6g
+Notes: Restaurant chole: ~300 kcal. Amritsari chole: 280 kcal (more oil).
+
+Kala Chana (1 bowl):
+Cal: 200 | P: 10g | C: 28g | F: 4g | Fibre: 7g
+Notes: Black chickpeas. Higher fibre than white chana.
+
+Lobia / Black-Eyed Peas Curry (1 bowl):
+Cal: 190 | P: 9g | C: 28g | F: 4g | Fibre: 6g
+Notes: Good folate source. Rajasthani/Punjabi.
+
+Sundal / Chana Sundal (1 cup, Tamil Nadu):
+Cal: 170 | P: 8g | C: 24g | F: 5g | Fibre: 6g
+Notes: Boiled chickpeas tempered with coconut. Temple offering.
+
+Usal / Sprouted Moth Curry (1 bowl, Maharashtra):
+Cal: 200 | P: 10g | C: 25g | F: 6g | Fibre: 5g
+Notes: Sprouted legumes in spicy gravy. Base of misal pav.
+
+Sprouts Chaat (1 cup):
+Cal: 120 | P: 8g | C: 16g | F: 2g | Fibre: 4g
+Notes: Mixed sprouts with onion, lemon. High protein snack.
+
+Kadala Curry (1 bowl, Kerala):
+Cal: 210 | P: 9g | C: 28g | F: 7g | Fibre: 5g
+Notes: Black chickpea curry with coconut. Served with puttu/appam.
+
+Sambar (1 bowl, with vegetables):
+Cal: 140 | P: 7g | C: 20g | F: 3g | Fibre: 5g
+Notes: Heartier version with drumstick, eggplant, pumpkin.
+
+Dal Dhokli (1 serving, Gujarati):
+Cal: 350 | P: 12g | C: 48g | F: 10g | Fibre: 5g
+Notes: Wheat dumplings cooked in toor dal. Complete meal.
+
+Pithla / Zunka (1 bowl, Maharashtrian):
+Cal: 140 | P: 6g | C: 15g | F: 6g | Fibre: 3g
+Notes: Besan (gram flour) gravy. Served with bhakri.
+
+═══════════════════════════════════════
+VEGETABLE DISHES — SABZI (per serving ~150g unless stated)
+═══════════════════════════════════════
+
+--- DRY SABZI (Sukhi Sabzi) ---
+
+Aloo Gobi Dry:
+Cal: 150 | P: 3g | C: 20g | F: 6g | Fibre: 3g
+Notes: Potato + cauliflower. North Indian classic.
+
+Bhindi Fry / Kurkuri Bhindi:
+Cal: 130 | P: 3g | C: 12g | F: 8g | Fibre: 4g
+Notes: Okra stir-fried. Crispy version uses more oil (~180 kcal).
+
+Gobi / Cauliflower Dry:
+Cal: 100 | P: 3g | C: 10g | F: 5g | Fibre: 3g
+Notes: Light preparation. Very diet-friendly.
+
+Cabbage Poriyal (South Indian):
+Cal: 80 | P: 2g | C: 8g | F: 4g | Fibre: 3g
+Notes: Cabbage stir-fried with coconut. Tamil Nadu/Kerala.
+
+Beans Poriyal:
+Cal: 90 | P: 3g | C: 10g | F: 4g | Fibre: 4g
+Notes: Green beans with coconut. Very low calorie.
+
+Aloo Sabzi Dry (Jeera Aloo):
+Cal: 160 | P: 3g | C: 25g | F: 6g | Fibre: 2g
+Notes: Cumin-tempered potatoes. Simple, common.
+
+Baingan Bharta:
+Cal: 120 | P: 3g | C: 10g | F: 8g | Fibre: 3g
+Notes: Roasted eggplant mash with onion, tomato.
+
+Sem / Flat Beans Sabzi:
+Cal: 90 | P: 3g | C: 12g | F: 4g | Fibre: 3g
+Notes: Seasonal winter vegetable. North Indian.
+
+Tinda Sabzi:
+Cal: 80 | P: 2g | C: 10g | F: 4g | Fibre: 2g
+Notes: Apple gourd. Very low calorie.
+
+Parwal Sabzi:
+Cal: 85 | P: 2g | C: 11g | F: 4g | Fibre: 2g
+Notes: Pointed gourd. Bihar/UP specialty.
+
+Lauki Sabzi (Bottle gourd):
+Cal: 70 | P: 2g | C: 8g | F: 4g | Fibre: 2g
+Notes: Very low calorie. Good for weight loss.
+
+Tori / Gilki Sabzi (Ridge gourd):
+Cal: 65 | P: 2g | C: 7g | F: 3g | Fibre: 2g
+Notes: Lightest sabzi option.
+
+Karela Sabzi (Bitter gourd):
+Cal: 80 | P: 2g | C: 8g | F: 4g | Fibre: 3g
+Notes: Blood sugar-lowering properties. Diabetic-friendly.
+
+Methi Sabzi (Fenugreek leaves):
+Cal: 90 | P: 3g | C: 8g | F: 5g | Fibre: 3g
+Notes: Iron-rich. Helps lactation.
+
+Drumstick Sabzi (Sahjan):
+Cal: 85 | P: 3g | C: 10g | F: 4g | Fibre: 3g
+Notes: Very high calcium and iron. South Indian staple.
+
+Kootu (Mixed veg, South Indian):
+Cal: 130 | P: 5g | C: 16g | F: 5g | Fibre: 4g
+Notes: Vegetables cooked with dal and coconut. Tamil Nadu.
+
+Avial (Kerala):
+Cal: 150 | P: 4g | C: 14g | F: 9g | Fibre: 4g
+Notes: Mixed vegetables in coconut-yogurt gravy. Kerala feast dish.
+
+Olan (Kerala):
+Cal: 110 | P: 3g | C: 12g | F: 6g | Fibre: 2g
+Notes: Ash gourd in coconut milk. Very gentle on stomach.
+
+Thoran (Kerala):
+Cal: 100 | P: 3g | C: 10g | F: 5g | Fibre: 4g
+Notes: Vegetable stir-fry with coconut. Beans/cabbage/carrot base.
+
+Undhiyu (Gujarati):
+Cal: 250 | P: 6g | C: 25g | F: 14g | Fibre: 5g
+Notes: Mixed vegetable casserole. Winter Gujarati specialty. Rich.
+
+--- GRAVY SABZI ---
+
+Palak Paneer:
+Cal: 250 | P: 12g | C: 10g | F: 18g | Fibre: 3g
+Notes: Spinach + paneer. Restaurant: 320 kcal. Good protein.
+
+Matar Paneer:
+Cal: 270 | P: 14g | C: 12g | F: 20g | Fibre: 3g
+Notes: Peas + paneer in tomato gravy.
+
+Shahi Paneer (restaurant):
+Cal: 380 | P: 14g | C: 12g | F: 30g | Fibre: 1g
+Notes: Cream + cashew paste + paneer. Very rich.
+
+Paneer Butter Masala (restaurant):
+Cal: 400 | P: 15g | C: 14g | F: 32g | Fibre: 1g
+Notes: Creamy tomato gravy. One of the most calorie-dense vegetarian curries.
+
+Paneer Bhurji:
+Cal: 300 | P: 18g | C: 5g | F: 24g | Fibre: 1g
+Notes: Scrambled paneer with onion/tomato. High protein.
+
+Paneer Tikka Masala:
+Cal: 350 | P: 16g | C: 12g | F: 26g | Fibre: 2g
+Notes: Grilled paneer in spiced gravy.
+
+Kadai Paneer:
+Cal: 320 | P: 15g | C: 10g | F: 24g | Fibre: 2g
+Notes: Paneer with capsicum in kadai masala.
+
+Mixed Veg Curry:
+Cal: 130 | P: 3g | C: 14g | F: 7g | Fibre: 4g
+Notes: Beans, carrot, peas, potato in light gravy.
+
+Aloo Matar:
+Cal: 160 | P: 4g | C: 22g | F: 6g | Fibre: 3g
+Notes: Potato + peas. Simple everyday sabzi.
+
+Dum Aloo (Kashmiri):
+Cal: 220 | P: 4g | C: 26g | F: 11g | Fibre: 2g
+Notes: Baby potatoes in rich yogurt gravy. Restaurant: 280 kcal.
+
+Malai Kofta (restaurant):
+Cal: 400 | P: 10g | C: 25g | F: 30g | Fibre: 2g
+Notes: Paneer-potato balls in cream gravy. Very indulgent.
+
+Saag / Sarson da Saag (Punjab):
+Cal: 120 | P: 5g | C: 8g | F: 8g | Fibre: 4g
+Notes: Mustard greens with butter. Iron-rich. Paired with makki roti.
+
+Navratan Korma (restaurant):
+Cal: 350 | P: 8g | C: 22g | F: 26g | Fibre: 3g
+Notes: Nine vegetables in cream-cashew gravy.
+
+Dal Baati Churma (1 serving, Rajasthan):
+Cal: 600 | P: 14g | C: 70g | F: 28g | Fibre: 5g
+Notes: Baked wheat balls + dal + sweet crumbled wheat. Full meal. Very calorie dense.
+
+Gatte ki Sabzi (Rajasthan):
+Cal: 200 | P: 7g | C: 18g | F: 11g | Fibre: 2g
+Notes: Besan dumplings in yogurt gravy.
+
+Ker Sangri (Rajasthan):
+Cal: 130 | P: 3g | C: 14g | F: 6g | Fibre: 4g
+Notes: Desert beans and berries. Dried vegetable curry.
+
+Shukto (Bengali):
+Cal: 140 | P: 4g | C: 14g | F: 7g | Fibre: 3g
+Notes: Bitter vegetable medley. Bengali dinner starter.
+
+Labra (Bengali):
+Cal: 120 | P: 4g | C: 14g | F: 5g | Fibre: 4g
+Notes: Mixed vegetable medley with panch phoron.
+
+Erissery (Kerala):
+Cal: 180 | P: 6g | C: 22g | F: 8g | Fibre: 4g
+Notes: Pumpkin + red beans with coconut. Onam feast dish.
+
+═══════════════════════════════════════
+RAW VEGETABLES & SALADS
+═══════════════════════════════════════
+
+Cucumber (100g): Cal: 15 | P: 0.7g | C: 3g | F: 0.1g
+Tomato (100g): Cal: 18 | P: 0.9g | C: 3.9g | F: 0.2g
+Onion raw (100g): Cal: 40 | P: 1.1g | C: 9g | F: 0.1g
+Carrot raw (100g): Cal: 41 | P: 0.9g | C: 10g | F: 0.2g
+Beetroot raw (100g): Cal: 43 | P: 1.6g | C: 10g | F: 0.2g
+Radish / Mooli (100g): Cal: 16 | P: 0.7g | C: 3.4g | F: 0.1g
+Lettuce (100g): Cal: 15 | P: 1.4g | C: 2.9g | F: 0.2g
+Spinach raw (100g): Cal: 23 | P: 2.9g | C: 3.6g | F: 0.4g
+Capsicum / Bell Pepper (100g): Cal: 20 | P: 0.9g | C: 4.6g | F: 0.2g
+
+Kachumber Salad (1 serving):
+Cal: 30 | P: 1g | C: 5g | F: 0.5g | Fibre: 1.5g
+Notes: Onion + tomato + cucumber + lemon. Zero oil.
+
+Green Chutney (1 tbsp):
+Cal: 10 | P: 0.3g | C: 1g | F: 0.5g
+Notes: Mint + coriander + green chili.
+
+Coconut Chutney (1 tbsp):
+Cal: 35 | P: 0.5g | C: 2g | F: 3g
+Notes: South Indian staple accompaniment.
+
+Raita — Mixed Veg (100g):
+Cal: 50 | P: 2.5g | C: 5g | F: 2g | Fibre: 0.5g
+Notes: Curd + cucumber + onion + tomato. Cooling.
+
+Boondi Raita (100g):
+Cal: 80 | P: 3g | C: 8g | F: 4g
+Notes: With fried besan balls. Higher calorie than veg raita.

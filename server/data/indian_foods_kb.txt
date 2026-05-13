@@ -1,0 +1,299 @@
+INDIAN FOOD NUTRITION DATABASE — ICMR/NIN REFERENCE DATA
+Source: Indian Council of Medical Research — National Institute of Nutrition (2024)
+All values per 100g unless stated otherwise
+
+═══════════════════════════════════════
+STAPLES (Roti, Rice, Bread)
+═══════════════════════════════════════
+
+ROTI / CHAPATI (Whole wheat, home-cooked)
+Per piece (~35g dry atta = ~60g cooked):
+Calories: 120 kcal | Protein: 3.5g | Carbs: 22g | Fat: 2g | Fibre: 2.5g
+Notes: Made with whole wheat flour. Add 30-40 kcal if made with ghee/oil.
+Common portions: 2-3 rotis per meal
+
+PARATHA (Plain, home-cooked)
+Per piece (~50g dry atta):
+Calories: 230 kcal | Protein: 4.5g | Carbs: 30g | Fat: 10g | Fibre: 2g
+Notes: Shallow fried in oil/ghee. Aloo paratha adds ~40 kcal.
+Dhaba paratha: 300-350 kcal (more oil)
+
+NAAN (Restaurant/Tandoor)
+Per piece:
+Calories: 260 kcal | Protein: 7g | Carbs: 45g | Fat: 5g | Fibre: 2g
+Notes: Made with refined flour (maida). Butter naan adds 50-70 kcal.
+
+RICE (White, cooked)
+Per cup (180g cooked):
+Calories: 210 kcal | Protein: 4g | Carbs: 46g | Fat: 0.5g | Fibre: 0.5g
+Notes: 1 katori ≈ 150g cooked rice ≈ 175 kcal
+
+BROWN RICE (Cooked)
+Per cup (180g cooked):
+Calories: 195 kcal | Protein: 4.5g | Carbs: 40g | Fat: 1.5g | Fibre: 3g
+
+PURI (Deep fried)
+Per piece (~30g):
+Calories: 150 kcal | Protein: 2g | Carbs: 15g | Fat: 9g | Fibre: 0.5g
+
+DOSA (Plain)
+Per piece (medium):
+Calories: 120 kcal | Protein: 3g | Carbs: 18g | Fat: 4g | Fibre: 0.5g
+Notes: Masala dosa adds ~80 kcal from potato filling
+
+IDLI (Steamed)
+Per piece (~40g):
+Calories: 55 kcal | Protein: 2g | Carbs: 10g | Fat: 0.5g | Fibre: 0.5g
+Notes: Very low fat. Common serving: 3-4 idlis
+
+UPMA (Semolina)
+Per serving (1 cup):
+Calories: 210 kcal | Protein: 5g | Carbs: 32g | Fat: 7g | Fibre: 2g
+
+POHA (Flattened rice, cooked)
+Per serving (1 plate):
+Calories: 250 kcal | Protein: 5g | Carbs: 40g | Fat: 8g | Fibre: 2g
+Notes: With peanuts, onion, turmeric. Light oil.
+
+═══════════════════════════════════════
+DALS & LEGUMES
+═══════════════════════════════════════
+
+DAL TADKA (Yellow Toor Dal)
+Per bowl (200ml cooked):
+Calories: 160 kcal | Protein: 9g | Carbs: 22g | Fat: 4g | Fibre: 4g
+Notes: With ghee tempering (tadka adds ~40 kcal)
+
+CHANA DAL
+Per bowl (200ml cooked):
+Calories: 180 kcal | Protein: 10g | Carbs: 25g | Fat: 4g | Fibre: 5g
+
+MOONG DAL (Green gram, cooked)
+Per bowl (200ml):
+Calories: 140 kcal | Protein: 9g | Carbs: 20g | Fat: 2g | Fibre: 3g
+Notes: Easy to digest. Good for muscle recovery.
+
+RAJMA (Kidney beans, cooked with gravy)
+Per bowl (200ml):
+Calories: 220 kcal | Protein: 11g | Carbs: 32g | Fat: 5g | Fibre: 7g
+Notes: Rajma chawal is a complete protein combo
+
+CHOLE / CHANA MASALA
+Per bowl (200ml):
+Calories: 240 kcal | Protein: 10g | Carbs: 30g | Fat: 9g | Fibre: 6g
+Notes: Restaurant chole has more oil: ~300 kcal
+
+SAMBAR
+Per bowl (200ml):
+Calories: 130 kcal | Protein: 6g | Carbs: 18g | Fat: 3g | Fibre: 4g
+
+RASAM
+Per bowl (200ml):
+Calories: 60 kcal | Protein: 2g | Carbs: 8g | Fat: 2g | Fibre: 1g
+
+═══════════════════════════════════════
+VEGETABLES (Sabzi)
+═══════════════════════════════════════
+
+ALOO GOBI (Potato-Cauliflower)
+Per serving (150g):
+Calories: 170 kcal | Protein: 4g | Carbs: 22g | Fat: 7g | Fibre: 3g
+
+PALAK PANEER
+Per serving (150g):
+Calories: 250 kcal | Protein: 12g | Carbs: 10g | Fat: 18g | Fibre: 3g
+Notes: High protein from paneer. Restaurant version: ~320 kcal
+
+BHINDI (Okra) FRY
+Per serving (150g):
+Calories: 130 kcal | Protein: 3g | Carbs: 12g | Fat: 8g | Fibre: 4g
+
+BAINGAN BHARTA
+Per serving (150g):
+Calories: 120 kcal | Protein: 3g | Carbs: 10g | Fat: 8g | Fibre: 3g
+
+MIXED VEG SABZI
+Per serving (150g):
+Calories: 110 kcal | Protein: 3g | Carbs: 12g | Fat: 6g | Fibre: 3g
+
+ALOO SABZI (Dry)
+Per serving (150g):
+Calories: 160 kcal | Protein: 3g | Carbs: 25g | Fat: 6g | Fibre: 2g
+
+SAAG (Mustard/Spinach greens)
+Per serving (150g):
+Calories: 90 kcal | Protein: 4g | Carbs: 6g | Fat: 6g | Fibre: 3g
+
+PANEER BHURJI
+Per serving (150g):
+Calories: 300 kcal | Protein: 18g | Carbs: 5g | Fat: 24g | Fibre: 1g
+
+MATAR PANEER
+Per serving (150g):
+Calories: 270 kcal | Protein: 14g | Carbs: 12g | Fat: 20g | Fibre: 3g
+
+═══════════════════════════════════════
+NON-VEG DISHES
+═══════════════════════════════════════
+
+CHICKEN CURRY (Home-cooked)
+Per serving (150g, bone-in pieces):
+Calories: 220 kcal | Protein: 22g | Carbs: 6g | Fat: 12g | Fibre: 1g
+Notes: Gravy-based. Restaurant butter chicken: ~350 kcal
+
+BUTTER CHICKEN (Restaurant)
+Per serving (200g):
+Calories: 350 kcal | Protein: 25g | Carbs: 10g | Fat: 24g | Fibre: 1g
+Notes: Heavy cream and butter. Calorie-dense.
+
+CHICKEN BIRYANI
+Per plate (300g):
+Calories: 450 kcal | Protein: 25g | Carbs: 50g | Fat: 16g | Fibre: 2g
+Notes: Restaurant biryani: 550-650 kcal
+
+EGG CURRY
+Per serving (2 eggs + gravy):
+Calories: 250 kcal | Protein: 14g | Carbs: 8g | Fat: 18g | Fibre: 1g
+
+EGG BHURJI (Scrambled eggs, Indian style)
+Per serving (3 eggs):
+Calories: 280 kcal | Protein: 18g | Carbs: 4g | Fat: 22g | Fibre: 0g
+Notes: With onion, tomato, green chili, oil
+
+BOILED EGG
+Per egg:
+Calories: 78 kcal | Protein: 6g | Carbs: 0.5g | Fat: 5g | Fibre: 0g
+
+FISH CURRY (Light gravy)
+Per serving (150g):
+Calories: 200 kcal | Protein: 22g | Carbs: 6g | Fat: 10g | Fibre: 1g
+
+TANDOORI CHICKEN
+Per leg piece (200g with bone):
+Calories: 260 kcal | Protein: 30g | Carbs: 5g | Fat: 13g | Fibre: 0g
+Notes: Marinated in yogurt + spices. No oil cooking.
+
+CHICKEN TIKKA
+Per serving (150g boneless):
+Calories: 220 kcal | Protein: 30g | Carbs: 4g | Fat: 9g | Fibre: 0g
+
+KEEMA (Mutton mince)
+Per serving (150g):
+Calories: 280 kcal | Protein: 20g | Carbs: 5g | Fat: 20g | Fibre: 0g
+
+═══════════════════════════════════════
+DAIRY & PROTEINS
+═══════════════════════════════════════
+
+PANEER (Cottage cheese)
+Per 100g:
+Calories: 265 kcal | Protein: 18g | Carbs: 3g | Fat: 20g | Fibre: 0g
+Notes: Good vegetarian protein source. Low-fat paneer: 180 kcal
+
+CURD / DAHI (Full fat)
+Per 100g (1 katori):
+Calories: 60 kcal | Protein: 3g | Carbs: 5g | Fat: 3g | Fibre: 0g
+
+RAITA (Curd with vegetables)
+Per 100g:
+Calories: 50 kcal | Protein: 2.5g | Carbs: 5g | Fat: 2g | Fibre: 0.5g
+
+CHAAS / BUTTERMILK
+Per glass (200ml):
+Calories: 40 kcal | Protein: 2g | Carbs: 4g | Fat: 1g | Fibre: 0g
+
+LASSI (Sweet)
+Per glass (200ml):
+Calories: 170 kcal | Protein: 5g | Carbs: 25g | Fat: 5g | Fibre: 0g
+
+MILK (Full fat, cow/buffalo)
+Per glass (200ml):
+Calories: 120 kcal | Protein: 6g | Carbs: 10g | Fat: 6g | Fibre: 0g
+
+WHEY PROTEIN (1 scoop, 30g)
+Calories: 120 kcal | Protein: 24g | Carbs: 2g | Fat: 1.5g | Fibre: 0g
+
+═══════════════════════════════════════
+SNACKS & STREET FOOD
+═══════════════════════════════════════
+
+SAMOSA (Aloo, deep fried)
+Per piece (80g):
+Calories: 250 kcal | Protein: 4g | Carbs: 28g | Fat: 14g | Fibre: 2g
+
+PAKORA / BHAJIYA (Onion)
+Per serving (5 pieces, 100g):
+Calories: 300 kcal | Protein: 5g | Carbs: 25g | Fat: 20g | Fibre: 2g
+
+MOONG DAL CHILLA
+Per piece:
+Calories: 100 kcal | Protein: 6g | Carbs: 12g | Fat: 3g | Fibre: 2g
+
+ROASTED MAKHANA (Fox nuts)
+Per 30g:
+Calories: 100 kcal | Protein: 3g | Carbs: 18g | Fat: 0.5g | Fibre: 1g
+
+ROASTED CHANA
+Per 30g:
+Calories: 110 kcal | Protein: 6g | Carbs: 17g | Fat: 2g | Fibre: 4g
+
+PEANUTS (Roasted)
+Per 30g:
+Calories: 170 kcal | Protein: 8g | Carbs: 5g | Fat: 14g | Fibre: 2g
+
+ALMONDS (Badam)
+Per 10 pieces (~14g):
+Calories: 80 kcal | Protein: 3g | Carbs: 2g | Fat: 7g | Fibre: 1.5g
+
+SPROUTS CHAAT
+Per serving (100g):
+Calories: 120 kcal | Protein: 8g | Carbs: 16g | Fat: 2g | Fibre: 4g
+
+VADA PAV
+Per piece:
+Calories: 300 kcal | Protein: 5g | Carbs: 38g | Fat: 14g | Fibre: 2g
+
+PAV BHAJI (1 plate)
+Per serving:
+Calories: 400 kcal | Protein: 8g | Carbs: 45g | Fat: 20g | Fibre: 4g
+
+═══════════════════════════════════════
+COMMON COMBOS & FULL MEALS
+═══════════════════════════════════════
+
+DAL CHAWAL (1 bowl dal + 1 cup rice):
+Calories: 370 kcal | Protein: 13g | Carbs: 68g | Fat: 4.5g
+
+RAJMA CHAWAL (1 bowl rajma + 1 cup rice):
+Calories: 430 kcal | Protein: 15g | Carbs: 78g | Fat: 5.5g
+
+ROTI + DAL + SABZI (2 roti + 1 bowl dal + 1 serving sabzi):
+Calories: 510 kcal | Protein: 18g | Carbs: 65g | Fat: 16g
+
+CHOLE BHATURE (1 plate):
+Calories: 550 kcal | Protein: 14g | Carbs: 60g | Fat: 28g
+
+SOUTH INDIAN THALI (2 idli + sambar + chutney + rice):
+Calories: 480 kcal | Protein: 14g | Carbs: 85g | Fat: 8g
+
+NORTH INDIAN THALI (2 roti + dal + sabzi + raita + rice):
+Calories: 650 kcal | Protein: 22g | Carbs: 90g | Fat: 20g
+
+═══════════════════════════════════════
+PORTION CONTEXT ADJUSTMENTS
+═══════════════════════════════════════
+
+HOME COOKING: Base values (listed above)
+RESTAURANT: Add 30-50% more calories (more oil, butter, cream)
+DHABA: Add 40-60% more calories (heavy oil, ghee)
+STREET FOOD: Add 20-40% more calories (deep frying)
+DABBA/TIFFIN: Similar to home cooking (-5 to +10%)
+
+COOKING METHOD CALORIE IMPACT:
+- Steaming: No added calories
+- Dry roasting: +5% calories
+- Shallow fry (light oil): +15-20% calories
+- Deep fry: +40-60% calories
+- Tandoor: +5% calories (minimal oil)
+- Gravy (tomato-onion): +50-80 kcal per serving
+- Gravy (cream-based): +100-150 kcal per serving

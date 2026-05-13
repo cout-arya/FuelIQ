@@ -1,0 +1,218 @@
+INDIAN FOOD MACRONUTRIENT DATABASE — COMPREHENSIVE
+Source: ICMR/NIN Indian Food Composition Tables + Field Verified Data
+All values per standard serving unless stated. Per 100g noted where applicable.
+
+═══════════════════════════════════════
+STAPLE GRAINS & BREADS
+═══════════════════════════════════════
+
+Rice — White Basmati (1 cup/180g cooked): Cal 210 | P 4g | C 46g | F 0.5g
+Rice — Sona Masoori (1 cup cooked): Cal 220 | P 4g | C 48g | F 0.5g
+Rice — Brown (1 cup cooked): Cal 195 | P 4.5g | C 40g | F 1.5g | Fibre 3g
+Rice — Red/Matta (1 cup cooked): Cal 200 | P 4g | C 42g | F 1g | Fibre 3.5g
+Roti/Chapati (1 medium, 35g atta): Cal 120 | P 3.5g | C 22g | F 2g
+Phulka (1 piece, 25g atta): Cal 85 | P 2.5g | C 16g | F 1g
+Paratha — Plain (1 piece): Cal 230 | P 4.5g | C 30g | F 10g
+Naan — Plain (1 piece): Cal 260 | P 7g | C 45g | F 5g
+Puri (1 piece, 30g): Cal 150 | P 2g | C 15g | F 9g
+Bhatura (1 piece): Cal 300 | P 5g | C 38g | F 14g
+Dosa — Plain (1 medium): Cal 120 | P 3g | C 18g | F 4g
+Masala Dosa (1 piece): Cal 200 | P 4g | C 28g | F 8g
+Idli (1 piece, 40g): Cal 55 | P 2g | C 10g | F 0.5g
+Upma (1 cup): Cal 210 | P 5g | C 32g | F 7g
+Poha (1 plate): Cal 250 | P 5g | C 40g | F 8g
+
+═══════════════════════════════════════
+LENTILS & LEGUMES (per bowl ~200ml cooked with tadka)
+═══════════════════════════════════════
+
+Moong Dal (1 bowl): Cal 140 | P 9g | C 20g | F 2g
+Toor Dal Tadka (1 bowl): Cal 160 | P 9g | C 22g | F 4g
+Masoor Dal (1 bowl): Cal 150 | P 9g | C 21g | F 3g
+Chana Dal (1 bowl): Cal 180 | P 10g | C 25g | F 4g
+Urad Dal (1 bowl): Cal 170 | P 10g | C 23g | F 4g
+Dal Makhani — restaurant (1 bowl): Cal 320 | P 12g | C 28g | F 18g
+Rajma Masala (1 bowl): Cal 220 | P 11g | C 32g | F 5g
+Chole / Chana Masala (1 bowl): Cal 240 | P 10g | C 30g | F 9g
+Kala Chana (1 bowl): Cal 200 | P 10g | C 28g | F 4g
+Lobia Curry (1 bowl): Cal 190 | P 9g | C 28g | F 4g
+Sambhar (1 bowl): Cal 130 | P 6g | C 18g | F 3g
+Rasam (1 bowl): Cal 60 | P 2g | C 8g | F 2g
+
+═══════════════════════════════════════
+VEGETABLES & SABZI (per serving ~150g)
+═══════════════════════════════════════
+
+DRY SABZI:
+Aloo Gobi: Cal 150 | P 3g | C 20g | F 6g
+Bhindi Fry: Cal 130 | P 3g | C 12g | F 8g
+Gobi Dry: Cal 100 | P 3g | C 10g | F 5g
+Baingan Bharta: Cal 120 | P 3g | C 10g | F 8g
+Aloo Jeera: Cal 160 | P 3g | C 25g | F 6g
+Lauki Sabzi: Cal 70 | P 2g | C 8g | F 4g
+Tori Sabzi: Cal 65 | P 2g | C 7g | F 3g
+Karela Sabzi: Cal 80 | P 2g | C 8g | F 4g
+Mixed Veg Sabzi: Cal 110 | P 3g | C 12g | F 6g
+Cabbage Poriyal: Cal 80 | P 2g | C 8g | F 4g
+Beans Poriyal: Cal 90 | P 3g | C 10g | F 4g
+
+GRAVY SABZI:
+Palak Paneer: Cal 250 | P 12g | C 10g | F 18g
+Matar Paneer: Cal 270 | P 14g | C 12g | F 20g
+Shahi Paneer: Cal 380 | P 14g | C 12g | F 30g
+Paneer Butter Masala: Cal 400 | P 15g | C 14g | F 32g
+Paneer Bhurji: Cal 300 | P 18g | C 5g | F 24g
+Kadai Paneer: Cal 320 | P 15g | C 10g | F 24g
+Malai Kofta: Cal 400 | P 10g | C 25g | F 30g
+Dum Aloo: Cal 220 | P 4g | C 26g | F 11g
+Navratan Korma: Cal 350 | P 8g | C 22g | F 26g
+Sarson da Saag: Cal 120 | P 5g | C 8g | F 8g
+
+═══════════════════════════════════════
+NON-VEG DISHES (per serving ~150g unless stated)
+═══════════════════════════════════════
+
+Chicken Curry — Home: Cal 220 | P 22g | C 6g | F 12g
+Butter Chicken — Restaurant: Cal 350 | P 25g | C 10g | F 24g
+Kadai Chicken: Cal 280 | P 26g | C 8g | F 16g
+Chicken Tikka Masala: Cal 330 | P 28g | C 10g | F 20g
+Tandoori Chicken (1 leg piece): Cal 260 | P 30g | C 5g | F 13g
+Chicken Tikka — Dry (150g): Cal 220 | P 30g | C 4g | F 9g
+Chicken Biryani — Home (1 plate): Cal 450 | P 25g | C 50g | F 16g
+Chicken Biryani — Restaurant: Cal 600 | P 28g | C 60g | F 25g
+Mutton Curry: Cal 280 | P 20g | C 5g | F 20g
+Mutton Rogan Josh: Cal 300 | P 22g | C 6g | F 22g
+Keema (150g): Cal 280 | P 20g | C 5g | F 20g
+Fish Curry — Light: Cal 200 | P 22g | C 6g | F 10g
+Fish Fry — Pan fried: Cal 220 | P 24g | C 8g | F 10g
+Prawn Curry: Cal 200 | P 24g | C 6g | F 8g
+Egg Curry (2 eggs): Cal 250 | P 14g | C 8g | F 18g
+Egg Bhurji (3 eggs): Cal 280 | P 18g | C 4g | F 22g
+Boiled Egg (1): Cal 78 | P 6g | C 0.5g | F 5g
+
+═══════════════════════════════════════
+DAIRY PRODUCTS
+═══════════════════════════════════════
+
+Paneer (100g): Cal 265 | P 18g | C 3g | F 20g
+Low-Fat Paneer (100g): Cal 180 | P 20g | C 3g | F 9g
+Curd / Dahi (100g): Cal 60 | P 3g | C 5g | F 3g
+Greek Yogurt (100g): Cal 59 | P 10g | C 3.6g | F 0.4g
+Chaas / Buttermilk (200ml): Cal 40 | P 2g | C 4g | F 1g
+Lassi — Sweet (200ml): Cal 170 | P 5g | C 25g | F 5g
+Lassi — Salt (200ml): Cal 80 | P 4g | C 6g | F 3g
+Milk — Full Fat (200ml): Cal 120 | P 6g | C 10g | F 6g
+Milk — Toned (200ml): Cal 90 | P 6g | C 10g | F 3g
+Ghee (1 tbsp, 15g): Cal 135 | P 0g | C 0g | F 15g
+Butter (1 tbsp, 14g): Cal 100 | P 0g | C 0g | F 11g
+Cheese — Processed slice (20g): Cal 60 | P 3.5g | C 1g | F 5g
+
+═══════════════════════════════════════
+SNACKS & STREET FOOD
+═══════════════════════════════════════
+
+Samosa — Aloo (1 piece): Cal 250 | P 4g | C 28g | F 14g
+Pakora / Bhajiya (5 pieces): Cal 300 | P 5g | C 25g | F 20g
+Vada Pav (1 piece): Cal 300 | P 5g | C 38g | F 14g
+Pav Bhaji (1 plate): Cal 450 | P 10g | C 50g | F 22g
+Chole Bhature (1 plate): Cal 850 | P 18g | C 95g | F 42g
+Pani Puri (6 pieces): Cal 150 | P 3g | C 28g | F 3g
+Bhel Puri (1 plate): Cal 200 | P 4g | C 32g | F 6g
+Dahi Vada (2 pieces): Cal 200 | P 6g | C 22g | F 10g
+Momos — Steamed Veg (6 pieces): Cal 200 | P 6g | C 30g | F 5g
+Momos — Steamed Chicken (6 pieces): Cal 250 | P 16g | C 28g | F 8g
+Dhokla (2 pieces): Cal 120 | P 4g | C 18g | F 3g
+Roasted Makhana (30g): Cal 100 | P 3g | C 18g | F 0.5g
+Roasted Chana (30g): Cal 110 | P 6g | C 17g | F 2g
+Sprouts Chaat (1 cup): Cal 120 | P 8g | C 16g | F 2g
+Peanuts — Roasted (30g): Cal 170 | P 8g | C 5g | F 14g
+
+═══════════════════════════════════════
+REGIONAL SPECIALTIES BY STATE
+═══════════════════════════════════════
+
+PUNJAB: Sarson da Saag + Makki Roti: Cal 260 | P 8g | C 36g | F 10g
+RAJASTHAN: Dal Baati Churma (1 serving): Cal 600 | P 14g | C 70g | F 28g
+GUJARAT: Dhokla (2 pc) + Chutney: Cal 140 | P 5g | C 20g | F 4g
+GUJARAT: Thepla (2 pieces): Cal 260 | P 6g | C 36g | F 10g
+MAHARASHTRA: Misal Pav (1 plate): Cal 450 | P 14g | C 55g | F 18g
+MAHARASHTRA: Vada Pav (1 piece): Cal 300 | P 5g | C 38g | F 14g
+BENGAL: Machher Jhol + Rice: Cal 420 | P 24g | C 54g | F 12g
+BENGAL: Luchi + Aloo Dum (3+serving): Cal 480 | P 8g | C 52g | F 25g
+KERALA: Appam + Stew: Cal 320 | P 24g | C 32g | F 10g
+KERALA: Puttu + Kadala Curry: Cal 410 | P 13g | C 66g | F 11g
+TAMIL NADU: Pongal (1 cup): Cal 280 | P 7g | C 42g | F 8g
+KARNATAKA: Bisi Bele Bath (1 cup): Cal 320 | P 9g | C 48g | F 9g
+KARNATAKA: Ragi Mudde + Saaru: Cal 190 | P 6g | C 36g | F 3g
+ANDHRA: Pesarattu + Upma: Cal 280 | P 10g | C 38g | F 8g
+HYDERABAD: Haleem (1 bowl): Cal 350 | P 18g | C 30g | F 18g
+GOA: Fish Curry Rice: Cal 400 | P 24g | C 50g | F 12g
+KASHMIR: Rogan Josh + Rice: Cal 510 | P 26g | C 52g | F 22g
+ASSAM: Masor Tenga + Rice: Cal 380 | P 20g | C 50g | F 10g
+NE INDIA: Thukpa (1 bowl): Cal 300 | P 14g | C 35g | F 10g
+
+═══════════════════════════════════════
+CONTINENTAL / WESTERN (Urban India)
+═══════════════════════════════════════
+
+Pasta — Alfredo (1 plate): Cal 550 | P 16g | C 60g | F 28g
+Pasta — Arrabbiata (1 plate): Cal 400 | P 12g | C 58g | F 14g
+Pizza — Margherita (1 slice): Cal 200 | P 8g | C 24g | F 8g
+Burger — Veg (fast food): Cal 350 | P 8g | C 42g | F 15g
+Burger — Chicken (fast food): Cal 400 | P 20g | C 35g | F 18g
+Caesar Salad — Chicken: Cal 380 | P 25g | C 15g | F 24g
+Grilled Sandwich — Veg: Cal 300 | P 8g | C 35g | F 14g
+French Fries (medium): Cal 365 | P 4g | C 44g | F 19g
+
+═══════════════════════════════════════
+FRUITS (per medium piece or 100g)
+═══════════════════════════════════════
+
+Banana (1 medium): Cal 105 | P 1.3g | C 27g | F 0.4g
+Apple (1 medium): Cal 95 | P 0.5g | C 25g | F 0.3g
+Mango (1 cup): Cal 100 | P 1g | C 25g | F 0.5g
+Papaya (1 cup): Cal 55 | P 0.8g | C 14g | F 0.3g
+Watermelon (1 cup): Cal 46 | P 0.9g | C 11g | F 0.2g
+Orange (1 medium): Cal 62 | P 1.2g | C 15g | F 0.2g
+Guava (1 medium): Cal 68 | P 2.5g | C 14g | F 1g
+Pomegranate (1/2 fruit): Cal 72 | P 1.5g | C 16g | F 1g
+
+═══════════════════════════════════════
+COOKING OILS & FATS (per 1 tbsp / 15ml)
+═══════════════════════════════════════
+
+Ghee: Cal 135 | F 15g — Clarified butter. Ayurvedic. High smoke point.
+Mustard Oil: Cal 124 | F 14g — Bengal/Eastern India. PUFA rich.
+Coconut Oil: Cal 121 | F 14g — Kerala/South India. MCT fats.
+Groundnut Oil: Cal 120 | F 14g — Gujarat/Maharashtra. Balanced.
+Sunflower Oil: Cal 120 | F 14g — Most used refined oil. Omega-6 heavy.
+Olive Oil: Cal 119 | F 14g — Cold-pressed for salads. Don't deep fry.
+Rice Bran Oil: Cal 120 | F 14g — Heart-healthy. Good for Indian cooking.
+Sesame / Til Oil: Cal 120 | F 14g — Tamil Nadu. Antioxidant rich.
+
+═══════════════════════════════════════
+PORTION GUIDELINES
+═══════════════════════════════════════
+
+HAND-BASED PORTIONING (No scale needed):
+- 1 fist = ~1 cup = ~150g cooked rice/dal
+- 1 palm (size + thickness) = ~100g protein (chicken/paneer)
+- 1 thumb = ~1 tbsp oil/ghee/peanut butter
+- 2 cupped hands = ~1 serving vegetables
+- 1 cupped hand = ~1 serving fruit/nuts
+
+COMMON WEIGHTS:
+- 1 katori (small bowl): ~150ml dal/sabzi
+- 1 plate rice: ~200-250g cooked
+- 1 roti: ~60g cooked (35g dry atta)
+- 1 glass milk: ~200ml
+- 1 tablespoon: ~15ml (oil) / ~15g (ghee/butter)
+
+RESTAURANT vs HOME MULTIPLIER:
+Home-cooked: 1.0x (base values above)
+Tiffin/Dabba: 1.0-1.1x
+Restaurant — Standard: 1.3-1.5x
+Restaurant — Premium/Mughlai: 1.5-1.8x
+Dhaba: 1.4-1.6x
+Street food: 1.2-1.4x
+Cloud kitchen: 1.25-1.4x

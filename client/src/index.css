@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF6B35;
+  --color-primary-dark: #E55A2B;
+  --color-primary-light: #FF8A5C;
+  --color-secondary: #004E64;
+  --color-accent: #25A18E;
+  --color-accent-light: #2EC4A8;
+  --color-surface: #0A0A0F;
+  --color-surface-2: #14141F;
+  --color-surface-3: #1E1E2E;
+  --color-surface-4: #282840;
+  --color-text-primary: #F5F5F5;
+  --color-text-secondary: #A0A0B0;
+  --color-text-muted: #6B6B80;
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-error: #EF4444;
+  --color-protein: #8B5CF6;
+  --color-carbs: #F59E0B;
+  --color-fats: #EC4899;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes slideUp {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulseSoft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+@utility animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+@utility animate-slide-up {
+  animation: slideUp 0.4s ease-out;
+}
+@utility animate-pulse-soft {
+  animation: pulseSoft 2s infinite;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  color: #F5F5F5;
+  background-color: #0A0A0F;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #0A0A0F;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #14141F; }
+::-webkit-scrollbar-thumb { background: #282840; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #3a3a5c; }
+
+/* Macro Ring Animation */
+.macro-ring { transition: stroke-dashoffset 1s ease-out; }
+
+/* Glass Card Effect */
+.glass-card {
+  background: rgba(20, 20, 31, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* Glow effect */
+.glow-primary { box-shadow: 0 0 20px rgba(255, 107, 53, 0.15); }
+
+/* Input focus */
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(255, 107, 53, 0.3);
+}

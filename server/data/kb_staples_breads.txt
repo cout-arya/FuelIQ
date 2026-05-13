@@ -1,0 +1,284 @@
+INDIAN STAPLES, BREADS & RICE — ICMR/NIN Reference
+Format: Item (portion) | Cal | P | C | F | Fibre | Notes
+
+═══════════════════════════════════════
+WHEAT BREADS (ROTI FAMILY)
+═══════════════════════════════════════
+
+Roti/Chapati (1 medium, 35g atta = 60g cooked):
+Cal: 120 | P: 3.5g | C: 22g | F: 2g | Fibre: 2.5g
+Notes: Whole wheat. Add 30-40 kcal if brushed with ghee. Most common Indian bread.
+
+Phulka (1 piece, 25g atta = 45g cooked):
+Cal: 85 | P: 2.5g | C: 16g | F: 1g | Fibre: 2g
+Notes: Puffed roti, thinner, no oil. Lightest bread option.
+
+Tandoori Roti (1 piece, restaurant):
+Cal: 140 | P: 4g | C: 26g | F: 2.5g | Fibre: 2g
+Notes: Cooked in tandoor, slightly thicker than home roti.
+
+Rumali Roti (1 piece):
+Cal: 100 | P: 3g | C: 20g | F: 1g | Fibre: 1g
+Notes: Very thin, handkerchief-style. Lower calorie.
+
+Paratha — Plain (1 piece, 50g atta):
+Cal: 230 | P: 4.5g | C: 30g | F: 10g | Fibre: 2g
+Notes: Shallow fried. Dhaba paratha: 300-350 kcal (more ghee).
+
+Aloo Paratha (1 piece):
+Cal: 280 | P: 5g | C: 36g | F: 12g | Fibre: 2.5g
+Notes: Potato stuffed. Served with curd and pickle.
+
+Gobi Paratha (1 piece):
+Cal: 250 | P: 5g | C: 32g | F: 11g | Fibre: 3g
+Notes: Cauliflower stuffed. Slightly lower cal than aloo.
+
+Paneer Paratha (1 piece):
+Cal: 300 | P: 9g | C: 30g | F: 15g | Fibre: 2g
+Notes: High protein variant. Popular Punjab breakfast.
+
+Mooli Paratha (1 piece):
+Cal: 230 | P: 4g | C: 30g | F: 10g | Fibre: 3g
+Notes: Radish stuffed. Good fibre content.
+
+Methi Paratha (1 piece):
+Cal: 220 | P: 5g | C: 28g | F: 9g | Fibre: 3.5g
+Notes: Fenugreek leaves. Iron-rich.
+
+Laccha Paratha (1 piece, restaurant):
+Cal: 320 | P: 5g | C: 35g | F: 18g | Fibre: 1.5g
+Notes: Layered, uses maida + ghee. Rich and flaky.
+
+Naan — Plain (1 piece, tandoor):
+Cal: 260 | P: 7g | C: 45g | F: 5g | Fibre: 2g
+Notes: Maida-based. Restaurant staple.
+
+Butter Naan (1 piece):
+Cal: 320 | P: 7g | C: 45g | F: 10g | Fibre: 2g
+Notes: Brushed with butter. Add 60 kcal over plain naan.
+
+Garlic Naan (1 piece):
+Cal: 300 | P: 7g | C: 46g | F: 8g | Fibre: 2g
+Notes: With garlic and coriander topping.
+
+Cheese Naan (1 piece):
+Cal: 380 | P: 12g | C: 45g | F: 16g | Fibre: 2g
+Notes: Stuffed with processed cheese. Very calorie dense.
+
+Kulcha — Plain (1 piece):
+Cal: 270 | P: 6g | C: 42g | F: 7g | Fibre: 1.5g
+Notes: Similar to naan but with baking powder.
+
+Amritsari Kulcha (1 piece):
+Cal: 350 | P: 8g | C: 44g | F: 15g | Fibre: 2g
+Notes: Stuffed with spiced potato/paneer. Iconic Punjab.
+
+Puri (1 piece, 30g, deep fried):
+Cal: 150 | P: 2g | C: 15g | F: 9g | Fibre: 0.5g
+Notes: Deep fried whole wheat. Served with aloo/chole.
+
+Bhatura (1 piece, 60g):
+Cal: 300 | P: 5g | C: 38g | F: 14g | Fibre: 1g
+Notes: Deep fried maida bread. Always paired with chole.
+
+Luchi (1 piece, Bengali):
+Cal: 130 | P: 2g | C: 14g | F: 7g | Fibre: 0.5g
+Notes: Bengali puri, made with maida. Smaller than bhatura.
+
+Thepla (1 piece, Gujarati):
+Cal: 130 | P: 3g | C: 18g | F: 5g | Fibre: 2g
+Notes: Spiced flatbread with methi. Travel-friendly snack.
+
+Makki di Roti (1 piece, Punjab winter):
+Cal: 140 | P: 3g | C: 28g | F: 2g | Fibre: 3g
+Notes: Corn flour. Always paired with sarson da saag. Gluten-free.
+
+Bajra Roti (1 piece, Rajasthan):
+Cal: 130 | P: 3.5g | C: 24g | F: 2g | Fibre: 3g
+Notes: Pearl millet. High iron. Rajasthani/Gujarati staple.
+
+Jowar Roti (1 piece, Maharashtra):
+Cal: 120 | P: 3.5g | C: 24g | F: 1.5g | Fibre: 3g
+Notes: Sorghum. Gluten-free. Good for diabetics.
+
+Ragi Roti (1 piece, Karnataka):
+Cal: 110 | P: 3g | C: 22g | F: 1.5g | Fibre: 4g
+Notes: Finger millet. Very high calcium (344mg/100g). Diabetic-friendly.
+
+Akki Roti (1 piece, Karnataka):
+Cal: 130 | P: 2g | C: 25g | F: 3g | Fibre: 1g
+Notes: Rice flour flatbread with vegetables.
+
+Pathiri (1 piece, Kerala Malabar):
+Cal: 110 | P: 2g | C: 22g | F: 1.5g | Fibre: 0.5g
+Notes: Rice flour flatbread. Served with chicken/mutton curry.
+
+Appam (1 piece, Kerala):
+Cal: 120 | P: 2g | C: 22g | F: 2.5g | Fibre: 0.5g
+Notes: Fermented rice batter + coconut milk. Bowl-shaped.
+
+Parotta/Kerala Parotta (1 piece):
+Cal: 250 | P: 4g | C: 30g | F: 12g | Fibre: 1g
+Notes: Layered maida flatbread. Kerala/Tamil Nadu street food staple.
+
+═══════════════════════════════════════
+RICE VARIETIES
+═══════════════════════════════════════
+
+White Rice — Basmati (1 cup/180g cooked):
+Cal: 210 | P: 4g | C: 46g | F: 0.5g | Fibre: 0.5g
+Notes: 1 katori ≈ 150g ≈ 175 kcal. GI: 58 (medium).
+
+White Rice — Non-Basmati/Sona Masoori (1 cup cooked):
+Cal: 220 | P: 4g | C: 48g | F: 0.5g | Fibre: 0.5g
+Notes: South Indian staple. Slightly higher GI than basmati.
+
+Brown Rice (1 cup/180g cooked):
+Cal: 195 | P: 4.5g | C: 40g | F: 1.5g | Fibre: 3g
+Notes: More fibre and micronutrients than white. Takes longer to cook.
+
+Red Rice / Kerala Matta Rice (1 cup cooked):
+Cal: 200 | P: 4g | C: 42g | F: 1g | Fibre: 3.5g
+Notes: Unpolished. High in antioxidants. Kerala/Karnataka staple.
+
+Black Rice / Manipuri Chak-hao (1 cup cooked):
+Cal: 190 | P: 5g | C: 38g | F: 1.5g | Fibre: 3g
+Notes: Northeast specialty. Very high anthocyanins (antioxidant).
+
+Jeera Rice (1 cup):
+Cal: 250 | P: 4.5g | C: 46g | F: 5g | Fibre: 1g
+Notes: Rice tempered with cumin and ghee. Restaurant side.
+
+Lemon Rice (1 cup, South Indian):
+Cal: 280 | P: 5g | C: 48g | F: 7g | Fibre: 1.5g
+Notes: With turmeric, peanuts, curry leaves.
+
+Curd Rice / Thayir Sadam (1 cup):
+Cal: 230 | P: 6g | C: 40g | F: 4g | Fibre: 0.5g
+Notes: Probiotic. South Indian comfort food. Good for digestion.
+
+Pulao / Vegetable Pulao (1 cup):
+Cal: 270 | P: 5g | C: 45g | F: 7g | Fibre: 2g
+Notes: With mixed vegetables, ghee, whole spices.
+
+Biryani Rice base only (1 cup):
+Cal: 300 | P: 5g | C: 48g | F: 9g | Fibre: 1g
+Notes: Ghee-rich, saffron. Base only without meat/veg.
+
+Pongal (1 cup, Tamil Nadu):
+Cal: 280 | P: 7g | C: 42g | F: 8g | Fibre: 2g
+Notes: Rice + moong dal cooked with pepper, ghee, cashew.
+
+Bisi Bele Bath (1 cup, Karnataka):
+Cal: 320 | P: 9g | C: 48g | F: 9g | Fibre: 4g
+Notes: Rice + toor dal + vegetables with special masala. Complete meal.
+
+═══════════════════════════════════════
+SOUTH INDIAN TIFFIN / BREAKFAST
+═══════════════════════════════════════
+
+Idli — Plain (1 piece, 40g):
+Cal: 55 | P: 2g | C: 10g | F: 0.5g | Fibre: 0.5g
+Notes: Steamed, fermented. Very low fat. Serving: 3-4 idlis.
+
+Rava Idli (1 piece):
+Cal: 70 | P: 2g | C: 12g | F: 1.5g | Fibre: 0.5g
+Notes: Semolina-based. Slightly higher calories.
+
+Dosa — Plain (1 medium):
+Cal: 120 | P: 3g | C: 18g | F: 4g | Fibre: 0.5g
+Notes: Fermented rice + urad dal batter.
+
+Masala Dosa (1 piece):
+Cal: 200 | P: 4g | C: 28g | F: 8g | Fibre: 2g
+Notes: With aloo masala filling. Add 30 kcal for ghee-roasted.
+
+Rava Dosa (1 piece):
+Cal: 180 | P: 3g | C: 22g | F: 8g | Fibre: 1g
+Notes: Semolina batter. Crispier than regular dosa.
+
+Mysore Masala Dosa (1 piece):
+Cal: 280 | P: 5g | C: 30g | F: 14g | Fibre: 2g
+Notes: Red chutney layer inside. More oil than regular masala dosa.
+
+Set Dosa (1 piece, Bengaluru):
+Cal: 90 | P: 2g | C: 15g | F: 2.5g | Fibre: 0.5g
+Notes: Thick, spongy, smaller. Usually served as set of 3.
+
+Neer Dosa (1 piece, Mangalore):
+Cal: 80 | P: 1.5g | C: 16g | F: 1g | Fibre: 0.5g
+Notes: Thin rice crepe. Very light. No fermentation.
+
+Uttapam (1 piece):
+Cal: 160 | P: 4g | C: 22g | F: 5g | Fibre: 2g
+Notes: Thick dosa topped with onion, tomato, chili.
+
+Medu Vada (1 piece):
+Cal: 130 | P: 4g | C: 12g | F: 7g | Fibre: 1g
+Notes: Deep fried urad dal. High protein but also high fat.
+
+Upma (1 cup, semolina):
+Cal: 210 | P: 5g | C: 32g | F: 7g | Fibre: 2g
+Notes: Tempered with mustard, curry leaves, vegetables.
+
+Poha (1 plate/cup):
+Cal: 250 | P: 5g | C: 40g | F: 8g | Fibre: 2g
+Notes: Flattened rice with peanuts, onion, turmeric. Maharashtra/MP.
+
+Sabudana Khichdi (1 cup, fasting food):
+Cal: 300 | P: 4g | C: 50g | F: 10g | Fibre: 1g
+Notes: Tapioca pearls + peanuts. Popular fasting food in Maharashtra.
+
+Puttu (1 cylinder, Kerala):
+Cal: 200 | P: 4g | C: 38g | F: 4g | Fibre: 2g
+Notes: Steamed rice powder + coconut. Served with kadala curry.
+
+Pesarattu (1 piece, Andhra):
+Cal: 130 | P: 6g | C: 18g | F: 3g | Fibre: 3g
+Notes: Green moong dal dosa. High protein breakfast.
+
+Ragi Mudde (1 ball, Karnataka):
+Cal: 130 | P: 3.5g | C: 28g | F: 1g | Fibre: 5g
+Notes: Finger millet ball. Extremely high calcium. Gluten-free.
+
+Aloo Paratha (1 piece + butter):
+Cal: 310 | P: 5g | C: 38g | F: 15g | Fibre: 2.5g
+Notes: North Indian breakfast with curd and pickle.
+
+Chole Bhature (1 plate, 2 bhature + chole):
+Cal: 850 | P: 18g | C: 95g | F: 42g | Fibre: 6g
+Notes: North Indian indulgent breakfast. Very calorie dense.
+
+Puri Sabzi (3 puri + aloo sabzi):
+Cal: 600 | P: 10g | C: 65g | F: 33g | Fibre: 4g
+Notes: Deep fried puris with potato curry.
+
+Misal Pav (1 plate, Maharashtra):
+Cal: 450 | P: 14g | C: 55g | F: 18g | Fibre: 6g
+Notes: Sprouted moth beans curry + pav. Spicy, protein-rich.
+
+Poori Bhaji (2 pooris + bhaji, Maharashtra):
+Cal: 420 | P: 8g | C: 48g | F: 22g | Fibre: 3g
+Notes: Maharashtrian style with besan bhaji.
+
+═══════════════════════════════════════
+PORTION & COOKING CONTEXT
+═══════════════════════════════════════
+
+HOME COOKING: Base values listed above.
+RESTAURANT: Add 30-50% more calories (more oil, butter, cream).
+DHABA: Add 40-60% more calories (heavy oil/ghee).
+STREET FOOD: Add 20-40% more calories (deep frying).
+DABBA/TIFFIN: Similar to home cooking (-5 to +10%).
+CLOUD KITCHEN: Similar to restaurant (+25-40%).
+
+COOKING METHOD CALORIE IMPACT:
+- Steaming (idli, dhokla): No added calories
+- Dry roasting (roti, phulka): +5% calories
+- Shallow fry (paratha, dosa): +15-25% calories
+- Deep fry (puri, vada, pakora): +40-60% calories
+- Tandoor (naan, tandoori roti): +5% calories
+- Gravy — tomato-onion base: +50-80 kcal per serving
+- Gravy — cream/cashew (Mughlai): +100-180 kcal per serving
+- Gravy — coconut (South/Kerala): +60-100 kcal per serving
+- Tempering (tadka) per dish: +30-60 kcal (depends on oil/ghee)
