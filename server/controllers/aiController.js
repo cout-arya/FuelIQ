@@ -172,11 +172,10 @@ Return ONLY valid JSON array:
     }
 
     // Step 2: RAG lookup for each food item
-    const enrichedItems = [];
     let needsClarification = false;
     let clarificationQuestion = null;
 
-    for (const item of parsedItems) {
+    const enrichedItems = await Promise.all(parsedItems.map(async (item) => {
         let ragResult = null;
         let confidenceScore = 0;
 
@@ -196,26 +195,30 @@ Return ONLY valid JSON array:
             clarificationQuestion = `I found "${ragResult.text?.split('\n')[0] || item.foodName}" — was this a home-cooked or restaurant portion?`;
         }
 
-        enrichedItems.push({
+        return {
             foodName: item.foodName,
             quantity: item.quantity,
             quantityGrams: item.quantityGrams,
             portionTier: item.portionTier,
             ragSourceId: ragResult?.id || null,
             confidenceScore: confidenceScore
-        });
-    }
+        };
+    }));
 
     // Step 3: Get accurate macros using RAG context + LLM
-    const ragContextParts = [];
-    for (const item of enrichedItems) {
-        if (item.ragSourceId) {
-            try {
-                const docs = await vectorStore.retrieveContext(item.foodName, 1);
-                if (docs.length > 0) ragContextParts.push(docs[0].text);
-            } catch (e) { /* continue without RAG */ }
-        }
-    }
+    const ragContextParts = (await Promise.all(
+        enrichedItems.map(async (item) => {
+            if (item.ragSourceId) {
+                try {
+                    const docs = await vectorStore.retrieveContext(item.foodName, 1);
+                    return docs.length > 0 ? docs[0].text : null;
+                } catch (e) {
+                    return null;
+                }
+            }
+            return null;
+        })
+    )).filter(Boolean);
 
     const macroPrompt = `You are an Indian nutrition expert. Calculate accurate macros for these food items.
 ${ragContextParts.length > 0 ? `\nUSE THIS VERIFIED NUTRITIONAL DATA:\n${ragContextParts.join('\n---\n')}\n` : ''}

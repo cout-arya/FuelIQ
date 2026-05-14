@@ -1,16 +1,18 @@
+import React, { Suspense } from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { useAuth } from './context/AuthContext';
 import LoadingSpinner from './components/LoadingSpinner';
-import Login from './pages/Login';
-import Register from './pages/Register';
-import LandingPage from './pages/LandingPage';
-import Onboarding from './pages/Onboarding';
-import Home from './pages/Home';
-import MealPlan from './pages/MealPlan';
-import Progress from './pages/Progress';
-import Settings from './pages/Settings';
 import MainLayout from './layouts/MainLayout';
 import { Toaster } from 'react-hot-toast';
+
+const Login = React.lazy(() => import('./pages/Login'));
+const Register = React.lazy(() => import('./pages/Register'));
+const LandingPage = React.lazy(() => import('./pages/LandingPage'));
+const Onboarding = React.lazy(() => import('./pages/Onboarding'));
+const Home = React.lazy(() => import('./pages/Home'));
+const MealPlan = React.lazy(() => import('./pages/MealPlan'));
+const Progress = React.lazy(() => import('./pages/Progress'));
+const Settings = React.lazy(() => import('./pages/Settings'));
 
 const ProtectedRoute = ({ children }) => {
     const { user, loading } = useAuth();
@@ -46,34 +48,36 @@ function App() {
                     },
                 }}
             />
-            <Routes>
-                {/* Public Routes */}
-                <Route path="/" element={<LandingPage />} />
-                <Route path="/login" element={<Login />} />
-                <Route path="/register" element={<Register />} />
+            <Suspense fallback={<LoadingSpinner text="Loading..." />}>
+                <Routes>
+                    {/* Public Routes */}
+                    <Route path="/" element={<LandingPage />} />
+                    <Route path="/login" element={<Login />} />
+                    <Route path="/register" element={<Register />} />
 
-                {/* Onboarding */}
-                <Route path="/onboarding" element={
-                    <ProtectedRoute><Onboarding /></ProtectedRoute>
-                } />
+                    {/* Onboarding */}
+                    <Route path="/onboarding" element={
+                        <ProtectedRoute><Onboarding /></ProtectedRoute>
+                    } />
 
-                {/* Protected App Routes */}
-                <Route element={
-                    <ProtectedRoute>
-                        <OnboardingGuard>
-                            <MainLayout />
-                        </OnboardingGuard>
-                    </ProtectedRoute>
-                }>
-                    <Route path="/home" element={<Home />} />
-                    <Route path="/plan" element={<MealPlan />} />
-                    <Route path="/progress" element={<Progress />} />
-                    <Route path="/settings" element={<Settings />} />
-                </Route>
+                    {/* Protected App Routes */}
+                    <Route element={
+                        <ProtectedRoute>
+                            <OnboardingGuard>
+                                <MainLayout />
+                            </OnboardingGuard>
+                        </ProtectedRoute>
+                    }>
+                        <Route path="/home" element={<Home />} />
+                        <Route path="/plan" element={<MealPlan />} />
+                        <Route path="/progress" element={<Progress />} />
+                        <Route path="/settings" element={<Settings />} />
+                    </Route>
 
-                {/* Catch all */}
-                <Route path="*" element={<Navigate to="/" />} />
-            </Routes>
+                    {/* Catch all */}
+                    <Route path="*" element={<Navigate to="/" />} />
+                </Routes>
+            </Suspense>
         </>
     );
 }

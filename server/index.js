@@ -1,12 +1,14 @@
 const express = require('express');
 const dotenv = require('dotenv');
 const cors = require('cors');
+const compression = require('compression');
 const connectDB = require('./config/db');
 
 dotenv.config();
 connectDB();
 
 const app = express();
+app.use(compression());
 
 const allowedOrigins = [
     'http://localhost:5173',
