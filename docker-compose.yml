@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:7
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped
+
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    depends_on:
+      mongo:
+        condition: service_healthy
+    env_file: .env.docker
+    ports:
+      - "5001:5001"
+    volumes:
+      - ./server/data:/app/data
+    restart: unless-stopped
+
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+      args:
+        VITE_API_URL: /api
+    depends_on:
+      - server
+    ports:
+      - "80:80"
+    restart: unless-stopped
+
+volumes:
+  mongo_data:

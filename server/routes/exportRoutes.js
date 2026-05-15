@@ -4,6 +4,7 @@ const { protect } = require('../middleware/authMiddleware');
 const { exportJSON, exportCSV } = require('../controllers/exportController');
 
 router.get('/json', protect, exportJSON);
+router.post('/', protect, exportJSON);
 router.get('/csv', protect, exportCSV);
 
 module.exports = router;

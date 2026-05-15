@@ -5,12 +5,14 @@ const {
     logWeight,
     getWeightHistory,
     getWeeklyProgress,
-    getStreak
+    getStreak,
+    getSummary
 } = require('../controllers/progressController');
 
 router.post('/weight', protect, logWeight);
 router.get('/weight', protect, getWeightHistory);
 router.get('/weekly', protect, getWeeklyProgress);
 router.get('/streak', protect, getStreak);
+router.get('/summary', protect, getSummary);
 
 module.exports = router;

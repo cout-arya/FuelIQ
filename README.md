@@ -1,5 +1,7 @@
 # FuelIQ 🔥
 
+![CI](https://github.com/YOUR_USERNAME/fueliq/actions/workflows/ci.yml/badge.svg)
+
 **India's First Culturally-Aware AI Nutrition Coach**
 
 FuelIQ gives Indian gym-goers accurate nutrition tracking for the food they actually eat — no social noise, no paywall surprises, no salmon-and-quinoa meal plans.
@@ -34,19 +36,16 @@ MyFitnessPal has 14 million foods, yet "aloo paratha homemade" returns 4 conflic
 git clone <repo-url>
 cd fueliq
 
-# Server
-cd server
-npm install
-cp .env.example .env  # Add your keys
-npm run dev
+# Quick Start (Docker)
+docker-compose up --build
+# Then visit http://localhost
 
-# Client (new terminal)
-cd client
-npm install
-npm run dev
+# Run Tests
+cd server
+npm test
 ```
 
-Open `http://localhost:3000`
+Open `http://localhost` (or `http://localhost:3000` for local dev)
 
 ## Environment Variables
 
