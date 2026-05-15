@@ -221,10 +221,10 @@ Return ONLY valid JSON array:
     )).filter(Boolean);
 
     const macroPrompt = `You are an Indian nutrition expert. Calculate accurate macros for these food items.
-${ragContextParts.length > 0 ? `\nUSE THIS VERIFIED NUTRITIONAL DATA:\n${ragContextParts.join('\n---\n')}\n` : ''}
-IMPORTANT: Use ICMR/NIN Indian nutritional guidelines. Account for Indian cooking methods (oil, ghee, tempering).
+${ragContextParts.length > 0 ? `\nCRITICAL INSTRUCTION: You MUST prioritize and use the exact nutritional values from the VERIFIED NUTRITIONAL DATA below if the food matches. Do NOT invent your own macros if the data is provided. Scale the macros proportionally ONLY if the user's quantity significantly differs from the reference quantity.\n\nVERIFIED NUTRITIONAL DATA:\n${ragContextParts.join('\n---\n')}\n` : ''}
+If an item is NOT in the verified data, use ICMR/NIN Indian nutritional guidelines. Account for Indian cooking methods (oil, ghee, tempering).
 
-For each item, return calories, protein, carbs, fats, and fibre in grams.
+For each item, return calories, protein, carbs, fats, and fibre in grams as numbers.
 Return ONLY valid JSON array:
 [
   { "foodName": "name", "calories": 0, "protein": 0, "carbs": 0, "fats": 0, "fibre": 0 }
