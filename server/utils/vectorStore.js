@@ -3,9 +3,20 @@ const { Pinecone } = require('@pinecone-database/pinecone');
 
 const GEMINI_EMBEDDING_MODEL = 'text-embedding-004'; // Using correct model
 
-// Initialize Pinecone
-const pinecone = new Pinecone({ apiKey: process.env.PINECONE_API_KEY });
-const index = pinecone.Index(process.env.PINECONE_INDEX_NAME);
+let cachedIndex = null;
+
+function getIndex() {
+    if (cachedIndex) return cachedIndex;
+    
+    if (!process.env.PINECONE_API_KEY) {
+        console.warn('⚠️ WARNING: PINECONE_API_KEY is missing from environment variables!');
+        throw new Error('PINECONE_API_KEY is missing');
+    }
+    
+    const pinecone = new Pinecone({ apiKey: process.env.PINECONE_API_KEY });
+    cachedIndex = pinecone.Index(process.env.PINECONE_INDEX_NAME || 'spottr-nutrition');
+    return cachedIndex;
+}
 
 async function generateEmbedding(text) {
     const apiKey = process.env.GEMINI_API_KEY || process.env.gemini_key;
@@ -22,6 +33,7 @@ async function generateEmbedding(text) {
  */
 async function similaritySearch(queryEmbedding, topK = 3) {
     try {
+        const index = getIndex();
         const response = await index.query({
             vector: queryEmbedding,
             topK: topK,
