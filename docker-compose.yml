@@ -19,11 +19,17 @@ services:
     depends_on:
       mongo:
         condition: service_healthy
+      redis:
+        condition: service_started
     env_file: .env.docker
     ports:
       - "5001:5001"
     volumes:
       - ./server/data:/app/data
+    restart: unless-stopped
+
+  redis:
+    image: redis:alpine
     restart: unless-stopped
 
   client:
@@ -35,7 +41,7 @@ services:
     depends_on:
       - server
     ports:
-      - "80:80"
+      - "3000:80"
     restart: unless-stopped
 
 volumes:

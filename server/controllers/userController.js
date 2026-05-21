@@ -1,5 +1,6 @@
 const asyncHandler = require('express-async-handler');
 const User = require('../models/User');
+const { clearUserCache } = require('../utils/cacheHelpers');
 
 // @desc    Get user profile
 // @route   GET /api/users/profile
@@ -73,6 +74,8 @@ const updateUserProfile = asyncHandler(async (req, res) => {
     user.markModified('profile');
     const updatedUser = await user.save();
 
+    await clearUserCache(req.user._id, '/api/users/profile');
+
     res.json({
         _id: updatedUser._id,
         name: updatedUser.name,
@@ -106,6 +109,8 @@ const completeOnboarding = asyncHandler(async (req, res) => {
     user.onboardingComplete = true;
     user.markModified('profile');
     const updatedUser = await user.save();
+
+    await clearUserCache(req.user._id, '/api/users/profile');
 
     res.json({
         _id: updatedUser._id,

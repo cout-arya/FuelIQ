@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { protect } = require('../middleware/authMiddleware');
+const { cacheRoute } = require('../middleware/cacheMiddleware');
 const {
     logWeight,
     getWeightHistory,
@@ -10,9 +11,9 @@ const {
 } = require('../controllers/progressController');
 
 router.post('/weight', protect, logWeight);
-router.get('/weight', protect, getWeightHistory);
-router.get('/weekly', protect, getWeeklyProgress);
-router.get('/streak', protect, getStreak);
-router.get('/summary', protect, getSummary);
+router.get('/weight', protect, cacheRoute(3600), getWeightHistory);
+router.get('/weekly', protect, cacheRoute(3600), getWeeklyProgress);
+router.get('/streak', protect, cacheRoute(3600), getStreak);
+router.get('/summary', protect, cacheRoute(3600), getSummary);
 
 module.exports = router;

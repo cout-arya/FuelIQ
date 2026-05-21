@@ -5,6 +5,7 @@ const MealPlan = require('../models/MealPlan');
 const vectorStore = require('../utils/vectorStore');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const axios = require('axios');
+const { clearUserCache } = require('../utils/cacheHelpers');
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -271,6 +272,10 @@ Return ONLY valid JSON array:
     // Update streak
     await updateStreak(req.user._id);
 
+    // Invalidate caches
+    await clearUserCache(req.user._id, '/api/progress');
+    await clearUserCache(req.user._id, '/api/nutrition');
+
     res.status(201).json({
         mealLog,
         needsClarification,
@@ -412,6 +417,11 @@ const deleteMealLog = asyncHandler(async (req, res) => {
     }
 
     await MealLog.findByIdAndDelete(req.params.id);
+    
+    // Invalidate caches
+    await clearUserCache(req.user._id, '/api/progress');
+    await clearUserCache(req.user._id, '/api/nutrition');
+
     res.json({ message: 'Meal log deleted' });
 });
 

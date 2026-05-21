@@ -1,7 +1,9 @@
 const app = require('./app');
 const connectDB = require('./config/db');
+const { connectRedis } = require('./config/redis');
 
 connectDB();
+connectRedis();
 
 // Log environment diagnostics
 console.log('═══════════════════════════════════════');

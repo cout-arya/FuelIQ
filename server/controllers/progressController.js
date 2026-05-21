@@ -2,6 +2,7 @@ const asyncHandler = require('express-async-handler');
 const WeightLog = require('../models/WeightLog');
 const MealLog = require('../models/MealLog');
 const User = require('../models/User');
+const { clearUserCache } = require('../utils/cacheHelpers');
 
 // @desc    Log weight
 // @route   POST /api/progress/weight
@@ -28,6 +29,9 @@ const logWeight = asyncHandler(async (req, res) => {
     await User.findByIdAndUpdate(req.user._id, {
         'profile.weight': weight
     });
+
+    await clearUserCache(req.user._id, '/api/progress/weight');
+    await clearUserCache(req.user._id, '/api/users/profile');
 
     res.json(log);
 });
