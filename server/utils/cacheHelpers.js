@@ -8,6 +8,12 @@ const { getRedisClient } = require('../config/redis');
 const clearUserCache = async (userId, prefix = '/api') => {
     try {
         const redis = getRedisClient();
+
+        // If Redis is disabled (e.g. CI/test), skip cache invalidation entirely
+        if (!redis) {
+            return;
+        }
+
         const pattern = `cache:${userId}:${prefix}*`;
         
         // Find all matching keys

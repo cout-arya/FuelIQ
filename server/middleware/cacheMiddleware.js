@@ -13,6 +13,11 @@ const cacheRoute = (duration = 3600) => {
 
         try {
             const redis = getRedisClient();
+
+            // If Redis is disabled (e.g. CI/test), skip caching entirely
+            if (!redis) {
+                return next();
+            }
             
             // Generate a unique key based on userId and the endpoint
             // E.g., cache:60d5ecb54b2c1234567890ab:/api/progress/summary
