@@ -3,7 +3,7 @@ import axios from 'axios';
 import toast from 'react-hot-toast';
 import MealCard from '../components/MealCard';
 import MacroRing from '../components/MacroRing';
-import { IoSparkles, IoRefresh } from 'react-icons/io5';
+import { IoSparkles, IoRefresh, IoRestaurantOutline, IoSyncOutline, IoBarbellOutline, IoBedOutline, IoHardwareChipOutline } from 'react-icons/io5';
 
 const MealPlan = () => {
     const [plan, setPlan] = useState(null);
@@ -32,7 +32,7 @@ const MealPlan = () => {
         try {
             const { data } = await axios.post('/mealplan/generate', { isTrainingDay });
             setPlan(data);
-            toast.success('Meal plan generated! 🍽️');
+            toast.success('Meal plan generated!', { icon: <IoRestaurantOutline className="text-primary" /> });
         } catch (err) {
             toast.error(err.response?.data?.message || 'Failed to generate plan');
         } finally {
@@ -45,7 +45,7 @@ const MealPlan = () => {
         try {
             const { data } = await axios.post('/mealplan/regenerate-meal', { mealIndex });
             setPlan(data.plan);
-            toast.success('Meal swapped! 🔄');
+            toast.success('Meal swapped!', { icon: <IoSyncOutline className="text-primary" /> });
         } catch (err) {
             toast.error('Failed to regenerate meal');
         } finally {
@@ -88,13 +88,13 @@ const MealPlan = () => {
                         onClick={() => setIsTrainingDay(true)}
                         className={`px-3 py-1.5 rounded-md text-xs font-medium transition-all ${isTrainingDay ? 'bg-primary text-white' : 'text-text-muted hover:text-text-secondary'}`}
                     >
-                        Training Day 💪
+                        Training Day <IoBarbellOutline className="inline-block mb-0.5 ml-1" />
                     </button>
                     <button
                         onClick={() => setIsTrainingDay(false)}
                         className={`px-3 py-1.5 rounded-md text-xs font-medium transition-all ${!isTrainingDay ? 'bg-accent text-white' : 'text-text-muted hover:text-text-secondary'}`}
                     >
-                        Rest Day 😴
+                        Rest Day <IoBedOutline className="inline-block mb-0.5 ml-1" />
                     </button>
                 </div>
             </div>
@@ -102,7 +102,7 @@ const MealPlan = () => {
             {!plan ? (
                 /* No plan yet — generate CTA */
                 <div className="text-center py-12">
-                    <p className="text-4xl mb-3">🤖</p>
+                    <div className="flex justify-center mb-3 text-primary"><IoHardwareChipOutline size={48} /></div>
                     <h2 className="text-base font-semibold mb-1">No plan for today</h2>
                     <p className="text-sm text-text-secondary mb-6">
                         Generate a personalized meal plan based on your goals and cuisine preferences

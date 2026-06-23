@@ -5,7 +5,7 @@ import toast from 'react-hot-toast';
 import FoodInput from '../components/FoodInput';
 import FoodLogEntry from '../components/FoodLogEntry';
 import MacroRing from '../components/MacroRing';
-import { IoFlame } from 'react-icons/io5';
+import { IoFlame, IoHelpCircleOutline, IoSparkles, IoRestaurantOutline } from 'react-icons/io5';
 
 const Home = () => {
     const { user } = useAuth();
@@ -38,12 +38,12 @@ const Home = () => {
         setIsLogging(true);
         try {
             const { data } = await axios.post('/nutrition/log', { text });
-            toast.success('Meal logged! 🔥');
+            toast.success('Meal logged!', { icon: <IoFlame className="text-primary" /> });
             fetchLogs(); // Refresh
 
             if (data.needsClarification) {
                 toast(data.clarificationQuestion || 'Was this home-cooked or restaurant?', {
-                    icon: '🤔',
+                    icon: <IoHelpCircleOutline className="text-amber-500" size={20} />,
                     duration: 5000
                 });
             }
@@ -65,7 +65,7 @@ const Home = () => {
             <div className="flex items-center justify-between mb-5">
                 <div>
                     <h1 className="text-lg font-bold">
-                        Hey, {user?.name?.split(' ')[0] || 'there'} 👋
+                        Hey, {user?.name?.split(' ')[0] || 'there'} <IoSparkles className="inline-block text-amber-400 mb-1 ml-1" size={20} />
                     </h1>
                     <p className="text-xs text-text-secondary">
                         {new Date().toLocaleDateString('en-IN', { weekday: 'long', day: 'numeric', month: 'short' })}
@@ -106,7 +106,7 @@ const Home = () => {
                     </div>
                 ) : logs.length === 0 ? (
                     <div className="text-center py-10">
-                        <p className="text-3xl mb-2">🍽️</p>
+                        <IoRestaurantOutline size={48} className="mx-auto text-text-muted mb-3" />
                         <p className="text-sm text-text-secondary">No meals logged today</p>
                         <p className="text-xs text-text-muted mt-1">Type what you ate above to get started</p>
                     </div>
